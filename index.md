@@ -1,3 +1,12 @@
+## 🧭 Navigation
+
+[Home](/thainangtani-politics-observatory/)
+[Analysis](/thainangtani-politics-observatory/analysis/)
+[Timeline](/thainangtani-politics-observatory/timeline/)
+[Methodology](/thainangtani-politics-observatory/methodology/)
+[Archive](/thainangtani-politics-observatory/archive/)
+
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory/main/images/observatory-logo.png" width="180" alt="Observatory Logo">
@@ -19,18 +28,6 @@ It provides:
 - methodological tools for long‑term research  
 
 The goal is not advocacy, but **structured observation**.
-
----
-
-## 🧭 Navigation
-
-[Home](/thainangtani-politics-observatory/)
-[Analysis](/thainangtani-politics-observatory/analysis/)
-[Timeline](/thainangtani-politics-observatory/timeline/)
-[Methodology](/thainangtani-politics-observatory/methodology/)
-[Archive](/thainangtani-politics-observatory/archive/)
-
----
 
 ## 📌 Latest Update
 
