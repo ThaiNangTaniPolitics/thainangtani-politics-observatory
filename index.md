@@ -20,7 +20,7 @@ The goal is not advocacy, but **structured observation**.
 
 ## 🧭 Navigation
 
-[Home](/)  
+[Home](/ThaiNangTaniPolitics-Observatory/)
 [Analysis](/analysis/)  
 [Timeline](/timeline/)  
 [Methodology](/methodology/)  
