@@ -1,4 +1,8 @@
-
+[Home](/)
+[Analysis](/analysis/)
+[Timeline](/timeline/)
+[Methodology](/methodology/)
+[Archive](/archive/)
 
 ---
 
