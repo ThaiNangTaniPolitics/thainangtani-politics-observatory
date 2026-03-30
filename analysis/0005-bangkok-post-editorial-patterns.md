@@ -1,9 +1,9 @@
 ---
 
-[Home](/)  
-[Analysis](/analysis/)  
-[Timeline](/timeline/)  
-[Methodology](/methodology/)  
+[Home](https://github.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory)
+[Analysis](/analysis/)
+[Timeline](/timeline/)
+[Methodology](/methodology/)
 [Archive](/archive/)
 
 ---
