@@ -1,4 +1,3 @@
----
 
 [Home](https://github.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory)
 [Analysis](/analysis/)
@@ -159,4 +158,3 @@ This will be the decisive moment in which the long‑term ownership concentratio
 - Wutisak Lapcharoensap  
 - Dr. Siritaj Rojanapruk  
 
----
