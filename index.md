@@ -5,6 +5,8 @@
 [Methodology](/thainangtani-politics-observatory/methodology/)
 [Archive](/thainangtani-politics-observatory/archive/)
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory/main/images/observatory-logo.png" width="180" alt="Observatory Logo">
 </p>
