@@ -5,6 +5,8 @@
 [Methodology](/thainangtani-politics-observatory/methodology/)
 [Archive](/thainangtani-politics-observatory/archive/)
 
+<img src="images/observatory-logo.png" alt="Observatory Logo" width="120" style="float:right; margin: 0 0 10px 20px;">
+
 # **Thai Nang Tani Politics Observatory**
 
 Welcome to the independent observatory for narrative analysis, media mechanics, and political communication in Thailand.
@@ -37,7 +39,4 @@ It tracks:
 - political communication patterns  
 
 All posts follow a consistent analytical structure to ensure comparability over time.
-<img src="images/observatory-logo.png" alt="Observatory Logo" width="120" style="float:right; margin: 0 0 10px 20px;">
 
-
-.
