@@ -31,7 +31,7 @@ The goal is not advocacy, but **structured observation**.
 ## 📌 Latest Update
 
 **Bangkok Post 2026 Transformation**  
-→ 0008 – The most profound structural shift in the newspaper’s history [( in Bing)](https://www.bing.com/search?q="file%3A%2F%2F%2Fanalysis%2F0008-bangkok-post-2026-transformation.md")
+→ 0008 – The most profound structural shift in the newspaper’s history 
 
 ---
 
