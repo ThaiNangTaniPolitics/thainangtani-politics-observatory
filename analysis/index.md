@@ -1,13 +1,14 @@
-[Home](/ThaiNangTaniPolitics-Observatory/) |
-[Analysis](/ThaiNangTaniPolitics-Observatory/analysis/) |
-[Timeline](/ThaiNangTaniPolitics-Observatory/timeline/) |
-[Methodology](/ThaiNangTaniPolitics-Observatory/methodology/) |
-[Archive](/ThaiNangTaniPolitics-Observatory/archive/)
+[Home](/)
+[Analysis](/analysis/)
+[Timeline](/timeline/)
+[Methodology](/methodology/)
+[Archive](/archive/)
 
----
+# Analysis Overview
 
-# Media Analysis
+## Media Ownership & Editorial Mechanics
+- [Media Mechanics: Ownership](media-mechanics-ownership.md)
+- [Bangkok Post: Ownership & Financial Structure](bangkok-post-ownership-financial-structure.md)
 
-This section contains narrative breakdowns, framing analysis, and observations on how Thai media present political topics.
-
-More content will be added soon.
+## Narrative Shifts
+- [Visa Policy Narrative Shift](visa-policy-narrative-shift.md)
