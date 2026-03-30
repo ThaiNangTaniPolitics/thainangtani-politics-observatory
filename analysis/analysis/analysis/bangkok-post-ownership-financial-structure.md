@@ -23,7 +23,7 @@ It is an analysis of **communication patterns**, **framing choices**, and **narr
 
 ---
 
-# Bangkok Post: Financial Situation & Ownership Structure
+# Bangkok Post: Ownership Structure, Financial Dependencies, and Editorial Patterns
 ### How economic pressure and ownership shape editorial behavior
 
 ## 1. Event Overview
