@@ -25,11 +25,13 @@ The goal is not advocacy, but **structured observation**.
 
 ## 🧭 Navigation
 
-[Home](/ThaiNangTaniPolitics-Observatory/)
-[Analysis](/ThaiNangTaniPolitics-Observatory/analysis/)
-[Timeline](/ThaiNangTaniPolitics-Observatory/timeline/)
-[Methodology](/ThaiNangTaniPolitics-Observatory/methodology/)
-[Archive](/ThaiNangTaniPolitics-Observatory/archive/)
+## 🧭 Navigation
+
+[Home](/thainangtani-politics-observatory/)
+[Analysis](/thainangtani-politics-observatory/analysis/)
+[Timeline](/thainangtani-politics-observatory/timeline/)
+[Methodology](/thainangtani-politics-observatory/methodology/)
+[Archive](/thainangtani-politics-observatory/archive/)
 
 ---
 
