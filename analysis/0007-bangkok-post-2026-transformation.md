@@ -1,4 +1,3 @@
----
 
 [Home](https://github.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory)
 [Analysis](/analysis/)
@@ -155,6 +154,4 @@ It is the logical outcome of:
 - the roles of the directors  
 - the economic networks  
 - the political embedding  
-
----
 
