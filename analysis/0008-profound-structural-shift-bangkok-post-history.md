@@ -1,4 +1,3 @@
----
 
 [Home](https://github.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory)
 [Analysis](/analysis/)
@@ -96,4 +95,3 @@ it marks the end of its era as a semi‑public institution and the beginning of 
 
 This is the most profound structural change in the newspaper’s history.
 
----
