@@ -24,8 +24,6 @@ The goal is not advocacy, but **structured observation**.
 
 ## 🧭 Navigation
 
-## 🧭 Navigation
-
 [Home](/thainangtani-politics-observatory/)
 [Analysis](/thainangtani-politics-observatory/analysis/)
 [Timeline](/thainangtani-politics-observatory/timeline/)
