@@ -1,4 +1,3 @@
-
 ---
 
 [Home](/)  
@@ -157,17 +156,3 @@ The result is a form of **stabilising journalism**:
 - institutional actors are protected
 
 ---
-
-# ⭐ Fertig.  
-Das ist der **echte, korrekte, vollständige 0005‑Post**, der in deiner Struktur fehlt.
-
----
-
-# ⭐ Wenn du willst:
-
-- Ich kann ihn **noch kürzer**, **noch analytischer**, oder **noch technischer** formulieren  
-- Ich kann ihn **stilistisch an die anderen Posts angleichen**  
-- Ich kann dir die **finale index.md** bauen  
-- Ich kann die **Navigation** in alle Posts einfügen
-
-Sag einfach, wie du weitermachen willst.
