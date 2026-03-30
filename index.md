@@ -5,8 +5,6 @@
 [Methodology](/thainangtani-politics-observatory/methodology/)
 [Archive](/thainangtani-politics-observatory/archive/)
 
----
-
 <img src="images/observatory-logo.png" alt="Observatory Logo" width="120" style="float:right; margin: 0 0 10px 20px;">
 
 # **Thai Nang Tani Politics Observatory**
