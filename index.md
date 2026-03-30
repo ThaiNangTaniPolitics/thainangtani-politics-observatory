@@ -6,10 +6,8 @@
 [Archive](/thainangtani-politics-observatory/archive/)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory/main/images/observatory-logo.png" width="180" alt="Observatory Logo">
-</p>
----
+
+<img src="images/observatory-logo.png" alt="Observatory Logo" width="120" style="float:right; margin: 0 0 10px 20px;">
 
 # **Thai Nang Tani Politics Observatory**
 
