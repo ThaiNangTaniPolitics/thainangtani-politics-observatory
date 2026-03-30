@@ -1,4 +1,3 @@
----
 
 [Home](https://github.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory)
 [Analysis](/analysis/)
@@ -155,4 +154,3 @@ The result is a form of **stabilising journalism**:
 - narratives are adjusted post‑hoc  
 - institutional actors are protected
 
----
