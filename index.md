@@ -11,8 +11,7 @@
 
 Welcome to the independent observatory for narrative analysis, media mechanics, and political communication in Thailand.
 
-This project documents how institutions communicate, how media construct narratives, and how structural forces shape public information.  
-It provides:
+This project documents how institutions communicate, how media construct narratives, and how structural forces shape public information.  It provides:
 
 - analytical case studies  
 - ownership and governance mapping  
@@ -29,8 +28,7 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📚 About the Observatory
 
-This repository is designed as a long‑term analytical archive.  
-It tracks:
+This repository is designed as a long‑term analytical archive.  It tracks:
 
 - narrative shifts  
 - editorial mechanics  
