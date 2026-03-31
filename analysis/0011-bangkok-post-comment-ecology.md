@@ -340,3 +340,41 @@ The Postbag section is shaped by two layers of editorial control:
 2. **Which comments on those letters remain visible**
 
 This double filter produces a curated, sanitised representation of public opinion that excludes certain analytical or critical voices from the outset.
+
+---
+
+## **11. The Postbag Archive as the Only Observable Comment Space**
+
+The Postbag section is the only part of the Bangkok Post where comments are archived in a stable, retrievable form.  
+Article comment sections are not preserved: older comments disappear, links break, and past discussions cannot be reconstructed.
+
+This means that long‑term analysis of commentator behaviour, visibility patterns, and moderation dynamics is only possible in the Postbag archive.
+
+### **Implication**
+When deletions increase specifically in the Postbag section — the only analyzable comment archive — the effect is a functional form of erasure:
+
+- historical patterns become invisible  
+- long‑term dominance of certain voices cannot be traced  
+- moderation trends cannot be verified  
+- the comment ecology becomes opaque  
+
+Even without assuming intent, the outcome is clear:  
+the only space where discursive patterns can be studied is being selectively thinned out, making past structures harder or impossible to reconstruct.
+
+---
+
+## 12. The Postbag Archive as a Target of Structural Erasure
+
+The Postbag archive is the only part of the Bangkok Post where comments are preserved in a stable, retrievable form.  
+Article comment sections disappear, break, or become inaccessible, making long‑term analysis impossible outside the Postbag.
+
+When deletions increase specifically in this only analyzable archive, the effect is twofold:
+
+1. **Prevention of evidence**  
+   Patterns of deletion, dominance, or selective visibility can no longer be reconstructed.
+
+2. **Erasure of discursive history**  
+   The historical record of commentator behaviour and moderation dynamics becomes fragmented or disappears entirely.
+
+Even without assuming intent, the functional outcome is clear:  
+the only space where discursive structures can be studied is selectively thinned out, making past patterns harder or impossible to verify.
