@@ -7,6 +7,24 @@
 
 ---
 
+
+### How to read this post
+This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
+Each entry follows a consistent analytical structure:
+
+- **Event Overview** – What happened  
+- **Official Communication** – What the government said and how  
+- **Media Framing** – How outlets shaped the story  
+- **Narrative Shift** – How the storyline evolved  
+- **Editorial Mechanics** – Selection, omission, emphasis, ordering  
+- **Public Sentiment** – How audiences reacted  
+- **Interpretation** – What the narrative structure reveals  
+
+This is not political advocacy.  
+It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
+
+---
+
 # **2026: The Most Profound Structural Shift in the Bangkok Post’s 80‑Year History**
 
 As the Bangkok Post approaches its 80th anniversary on **1 August 2026**, the newspaper is undergoing the most significant structural transformation since its founding in 1946. This shift is not editorial, political, or cultural. It is **financial and governance‑driven** — and it will redefine the identity, autonomy, and institutional role of Thailand’s oldest English‑language newspaper.
