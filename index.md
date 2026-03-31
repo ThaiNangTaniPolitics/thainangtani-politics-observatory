@@ -23,8 +23,9 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How selective moderation, structural omission, and disproportionate amplification shape public discourse**  
-0011 – Bangkok Post: Comment Ecology
+**A structural analysis of Thailand’s post‑election institutional interventions**  
+ 0012 – Section 112 and the Blocked Path of Democratic Reform (2021–2026)
+
 
 ## 📚 About the Observatory
 
