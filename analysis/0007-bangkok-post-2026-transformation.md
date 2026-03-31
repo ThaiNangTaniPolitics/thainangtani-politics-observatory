@@ -1,10 +1,9 @@
 
-[Home](https://github.com/ThaiNangTaniPolitics/ThaiNangTaniPolitics-Observatory)
-[Analysis](/analysis/)
-[Timeline](/timeline/)
-[Methodology](/methodology/)
-[Archive](/archive/)
-
+[Home](/thainangtani-politics-observatory/)  
+[Analysis](/thainangtani-politics-observatory/analysis/)  
+[Timeline](/thainangtani-politics-observatory/timeline/)  
+[Methodology](/thainangtani-politics-observatory/methodology/)  
+[Archive](/thainangtani-politics-observatory/archive/)
 ---
 
 # **Structural and Political Context: Why the Bangkok Post’s 2026 Transformation Is More Than a Financial Event**
