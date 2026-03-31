@@ -22,3 +22,4 @@ This section contains analytical case studies and narrative investigations.
 - [0008 – The Most Profound Structural Shift in the Bangkok Post’s History](0008-bangkok-post-profound-structural-shift-history.md)
 - [0009 – Visa Narrative Paradox: Thailand as “Safe Haven” vs. “Infiltration”](0009-visa-narrative-paradox-safe-haven.md)
 - [0010 – The Buri‑Ramization of Defense](0010-buri‑ramization-of-defense.md)
+- [0011 – Bangkok Post: Comment Ecology](0011-bangkok-post-comment-ecology.md)
