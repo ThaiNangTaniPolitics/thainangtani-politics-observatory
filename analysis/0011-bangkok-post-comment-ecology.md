@@ -255,18 +255,21 @@ The comment ecology undermines trust in the platform.
 
 ---
 
-# **7. Documentation: Letter to the Editorial Team**
-A formal letter was sent to the Bangkok Post on this issue, summarizing:
+# **7. Documentation: Attempts to Engage the Editorial Team**
 
-- the deletion patterns  
-- the dominance of extreme-right commentators  
-- the statistical imbalance  
-- the reputational risk  
-- the need for transparency  
+Concerns about moderation patterns, statistical imbalances, and the visibility of a small group of conservative, often provocative commentators were formally communicated to the Bangkok Post.
+
+The communication summarised:
+
+- observed deletion patterns  
+- the disproportionate visibility of a small commentator cluster  
+- the statistical imbalance in published comments  
+- potential reputational risks  
+- the need for transparent moderation guidelines  
 
 No substantive response was received.
 
-This silence reinforces the interpretation that the moderation system is **not designed to be explained**.
+This absence of engagement reinforces the interpretation that the moderation system is not designed to be explained or publicly scrutinised.
 
 ---
 
