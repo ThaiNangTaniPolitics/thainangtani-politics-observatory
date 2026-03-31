@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Bangkok Post 2026 Transformation**  
-→ 0008 – The most profound structural shift in the newspaper’s history 
+**How media framing transforms a tourism policy reversal into a security narrative**  
+→ 0009 - Visa Narrative Paradox: Thailand as “Safe Haven” vs. “Infiltration” 
 
 ## 📚 About the Observatory
 
