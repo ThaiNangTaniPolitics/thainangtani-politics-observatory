@@ -1,7 +1,13 @@
 # 0012 – Section 112 and the Blocked Path of Democratic Reform (2021–2026)
 ### A structural analysis of Thailand’s post‑election institutional interventions
 
+[Home](/thainangtani-politics-observatory/)  
+[Analysis](/thainangtani-politics-observatory/analysis/)  
+[Timeline](/thainangtani-politics-observatory/timeline/)  
+[Methodology](/thainangtani-politics-observatory/methodology/)  
+[Archive](/thainangtani-politics-observatory/archive/)
 
+---
 
 **INTRODUCTION**  
 Between 2021 and 2026, Thailand developed a consistent pattern of institutional responses targeting political actors who attempted to bring Section 112 (lèse‑majesté) into the parliamentary arena.  
