@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How media framing transforms a tourism policy reversal into a security narrative**  
-0009 - Visa Narrative Paradox: Thailand as “Safe Haven” vs. “Infiltration” 
+**How regional patronage networks reshape Thailand’s military leadership and security doctrine**  
+0010 – The Buri Ram Defense Network
 
 ## 📚 About the Observatory
 
