@@ -1,10 +1,11 @@
+# 0004 - Bangkok Post: Ownership Structure, Financial Dependencies, and Editorial Patterns
+### How economic pressure and ownership shape editorial behavior
 
 [Home](/thainangtani-politics-observatory/)
 [Analysis](/thainangtani-politics-observatory/analysis/)
 [Timeline](/thainangtani-politics-observatory/timeline/)
 [Methodology](/thainangtani-politics-observatory/methodology/)
 [Archive](/thainangtani-politics-observatory/archive/)
-
 
 ---
 
@@ -24,9 +25,6 @@ This is not political advocacy.
 It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
 
 ---
-
-# Bangkok Post: Ownership Structure, Financial Dependencies, and Editorial Patterns
-### How economic pressure and ownership shape editorial behavior
 
 ## 1. Event Overview
 The Bangkok Post, one of Thailand’s oldest English‑language newspapers, has undergone significant financial strain in recent years.  
