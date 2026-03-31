@@ -1,11 +1,13 @@
+# 0007 – Bangkok Post: Structural and Political Context 2024–2026
+### How financial dependency, ownership networks, and governance architecture reshape the newspaper’s institutional role
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
 [Timeline](/thainangtani-politics-observatory/timeline/)  
 [Methodology](/thainangtani-politics-observatory/methodology/)  
 [Archive](/thainangtani-politics-observatory/archive/)
----
 
+---
 
 ### How to read this post
 This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
