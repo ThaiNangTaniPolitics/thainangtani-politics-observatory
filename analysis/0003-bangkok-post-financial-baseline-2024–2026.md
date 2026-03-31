@@ -1,10 +1,11 @@
+# 0003 - **Bangkok Post: Financial Baseline 2024–2026**
+### *Structural insolvency, emergency financing, and the collapse of public-company status*
 
 [Home](/thainangtani-politics-observatory/)
 [Analysis](/thainangtani-politics-observatory/analysis/)
 [Timeline](/thainangtani-politics-observatory/timeline/)
 [Methodology](/thainangtani-politics-observatory/methodology/)
 [Archive](/thainangtani-politics-observatory/archive/)
-
 
 ---
 
