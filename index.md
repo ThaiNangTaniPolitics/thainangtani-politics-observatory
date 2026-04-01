@@ -38,3 +38,4 @@ This repository is designed as a long‑term analytical archive.  It tracks:
 
 All posts follow a consistent analytical structure to ensure comparability over time.
 
+
