@@ -150,13 +150,3 @@ Their decisions cannot be tested against a legal standard, and therefore cannot 
 
 Ethics becomes a domain of absolute discretion.
 
----
-
-## 4. Next Chapter
-
-The next chapter (0014) begins the constitutional dissection with:
-
-### **Section 49 – wording, structure, scope, and functional logic**
-
-This is the article that underpins the 2024 rulings and the subsequent institutional cascade.
-
