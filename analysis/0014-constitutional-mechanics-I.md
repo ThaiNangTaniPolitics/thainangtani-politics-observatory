@@ -1,3 +1,5 @@
+---
+---
 # 0014 – Constitutional Mechanics I: The Analytical Framework (2024–2026)
 ### How constitutional text becomes doctrine, doctrine becomes judgment, and judgment becomes political sanction
 
