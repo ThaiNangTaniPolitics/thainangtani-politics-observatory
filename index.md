@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**How constitutional text becomes doctrine, doctrine becomes judgment, and judgment becomes political sanction**  
-0014 – Constitutional Mechanics I: The Analytical Framework (2024–2026)
+**Empirical confirmation of structural patterns in legislative oversight and constitutional intervention**  
+0015 – Live Statements (2026): Actor Perceptions of Thailand’s Constitutional Mechanisms
 
 ## 📚 About the Observatory
 
