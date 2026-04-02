@@ -86,7 +86,7 @@ Possible consequences:
 
 The institutional chain triggered by a single legislative act:
 
-| Year / Period | Ereignis / Event / Institutional Step |
+| Year / Period | Event / Institutional Step |
 |-----------------|--------------------------------------|
 | **2021** | Legislative proposal to reform Section 112 |
 | ▼ | |
