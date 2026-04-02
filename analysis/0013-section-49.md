@@ -25,6 +25,7 @@ This is not political advocacy.
 It is an analysis of **constitutional mechanics**, **interpretive expansion**, and **institutional sequencing**.
 
 ---
+
  *"Section 49
  
 	No person shall exercise the rights or liberties to overthrow the democratic regime of government with the King as Head of State.
@@ -33,7 +34,10 @@ It is an analysis of **constitutional mechanics**, **interpretive expansion**, a
    In the case where the Attorney-General orders a refusal to proceed as petitioned or fails to proceed within fifteen days as from the date of
    receiving the petition, the person making the petition may submit the petition directly to the Constitutional Court.
    The action under this section shall not prejudice the criminal prosecution against the person committing an act under paragraph one."*
+   
    (Source: https://www.constituteproject.org/constitution/Thailand_2017?lang=en)
+   
+---
 
 # **1. Event Overview: What Section 49 Does**
 
