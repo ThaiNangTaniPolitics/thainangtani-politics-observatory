@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Empirical confirmation of structural patterns in legislative oversight and constitutional intervention**  
-0015 – Live Statements (2026): Actor Perceptions of Thailand’s Constitutional Mechanisms
+**Individual Political Extinction through the Criminal Division for Persons Holding Political Positions**  
+0018 – The Supreme Court as Terminal Node
 
 ## 📚 About the Observatory
 
