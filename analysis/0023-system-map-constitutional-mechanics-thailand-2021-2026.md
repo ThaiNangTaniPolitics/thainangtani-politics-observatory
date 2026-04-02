@@ -116,8 +116,3 @@ This system operates through **possibility**, not certainty;
 through **interpretation**, not prohibition;  
 through **anticipation**, not enforcement.
 
----
-
-Damit ist die Mechanik‑Serie 0012–0023 vollständig und sauber abgeschlossen.
-
-Wenn du später weitermachen willst, steigen wir einfach wieder ein.
