@@ -3,7 +3,13 @@
 # **0018 – The Supreme Court as Terminal Node**
 ### Individual Political Extinction through the Criminal Division for Persons Holding Political Positions
 
-[Home](https://www.google.com/search?q=/thainangtani-politics-observatory/) | [Analysis](https://www.google.com/search?q=/thainangtani-politics-observatory/analysis/) | [Methodology](https://www.google.com/search?q=/thainangtani-politics-observatory/methodology/) | [Archive](https://www.google.com/search?q=/thainangtani-politics-observatory/archive)
+[Home](/thainangtani-politics-observatory/)  
+[Analysis](/thainangtani-politics-observatory/analysis/)  
+[Timeline](/thainangtani-politics-observatory/timeline/)  
+[Methodology](/thainangtani-politics-observatory/methodology/)  
+[Archive](/thainangtani-politics-observatory/archive/)
+
+--
 
 **1. THE CONSTITUTIONAL ASSIGNMENT (Section 195 & 235)**
 Under the 2017 Constitution, the Supreme Court is not merely an appellate body but the **Terminal Node** for political eligibility cases. Through its *Criminal Division for Persons Holding Political Positions*, it adjudicates cases forwarded by the NACC regarding "serious ethical violations."
