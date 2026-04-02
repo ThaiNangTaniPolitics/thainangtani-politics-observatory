@@ -196,8 +196,3 @@ It now functions as:
 
 Section 49 is therefore central to understanding Thailand’s constitutional mechanics between 2021 and 2026.
 
----
-
-# **Next Chapter**
-**0014 – The Doctrine of “Abuse of Rights”**  
-How the Constitutional Court constructed a new interpretive tool to evaluate political initiatives.
