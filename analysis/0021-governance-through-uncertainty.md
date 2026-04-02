@@ -176,6 +176,3 @@ Between 2021 and 2026, Thailand’s constitutional environment evolved into a sy
 - **and preventive logic shapes political practice**.
 
 This architecture of anticipation completes the analytical arc of Chapters 0012–0020, revealing a constitutional order in which **governance operates not through explicit rules, but through the management of possibility**.
-
-
-entwickeln.
