@@ -24,8 +24,6 @@ It follows the standard analytical structure:
 This is not political advocacy.  
 It is an analysis of **constitutional mechanics**, **interpretive expansion**, and **institutional sequencing**.
 
----
-
  *"Section 49
  
 	No person shall exercise the rights or liberties to overthrow the democratic regime of government with the King as Head of State.
@@ -36,8 +34,6 @@ It is an analysis of **constitutional mechanics**, **interpretive expansion**, a
    The action under this section shall not prejudice the criminal prosecution against the person committing an act under paragraph one."*
    
    (Source: https://www.constituteproject.org/constitution/Thailand_2017?lang=en)
-   
----
 
 # **1. Event Overview: What Section 49 Does**
 
