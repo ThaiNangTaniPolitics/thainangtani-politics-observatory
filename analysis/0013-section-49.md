@@ -34,7 +34,7 @@ It is an analysis of **constitutional mechanics**, **interpretive expansion**, a
    In the case where the Attorney-General orders a refusal to proceed as petitioned or fails to proceed within fifteen days as from the date of
    receiving the petition, the person making the petition may submit the petition directly to the Constitutional Court.
    The action under this section shall not prejudice the criminal prosecution against the person committing an act under paragraph one."*   
-   (Source: https://www.constituteproject.org/constitution/Thailand_2017?lang=en)
+   [Source](https://www.constituteproject.org/constitution/Thailand_2017?lang=en)
 
 ---
 
