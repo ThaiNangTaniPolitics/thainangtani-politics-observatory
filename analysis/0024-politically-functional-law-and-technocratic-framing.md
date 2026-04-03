@@ -61,7 +61,6 @@
                 │  - Neutrality projected                 │
                 │  - Structural critique displaced        │
                 └────────────────────────────────────────┘
-```
 
 ---
 
