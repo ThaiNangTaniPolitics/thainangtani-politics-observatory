@@ -14,53 +14,57 @@
 ## **1. Overview Diagram: The Dual Structure of Law and Narrative**
 
 ```
-                ┌────────────────────────────────────────┐
-                │  Politically Functional Law            │
-                │  - Conflict channel                    │
-                │  - Actor regulation                    │
-                │  - Risk generation                     │
-                │  - Stability claims                    │
-                └────────────────────────────────────────┘
-                                 │
-                                 ▼
-                ┌────────────────────────────────────────┐
-                │  Filtering Mechanisms                   │
-                │  - Ethics clauses                       │
-                │  - Eligibility rules                    │
-                │  - Procedural exposure                  │
-                └────────────────────────────────────────┘
-                                 │
-                                 ▼
-                ┌────────────────────────────────────────┐
-                │  Technocratic Reform Narrative          │
-                │  - OECD standards                       │
-                │  - Digital government                   │
-                │  - Neutrality rhetoric                  │
-                └────────────────────────────────────────┘
-                                 │
-                                 ▼
-                ┌────────────────────────────────────────┐
-                │  Depoliticisation Frame                │
-                │  - “Non-interference”                  │
-                │  - “Serving the country”               │
-                │  - Administrative modernisation        │
-                └────────────────────────────────────────┘
-                                 │
-                                 ▼
-                ┌────────────────────────────────────────┐
-                │  Discursive Contrast                    │
-                │  - Liturgical reader letters           │
-                │  - Symbolic seasonal texts             │
-                │  - Non-argumentative discourse         │
-                └────────────────────────────────────────┘
-                                 │
-                                 ▼
-                ┌────────────────────────────────────────┐
-                │  Systemic Effect                        │
-                │  - Political function masked            │
-                │  - Neutrality projected                 │
-                │  - Structural critique displaced        │
-                └────────────────────────────────────────┘
+ ## Timeline: Politically Functional Law → Systemic Effect
+
+### 1. Politically Functional Law
+- Conflict channel  
+- Actor regulation  
+- Risk generation  
+- Stability claims  
+
+↓
+
+### 2. Filtering Mechanisms
+- Ethics clauses  
+- Eligibility rules  
+- Procedural exposure  
+
+↓
+
+### 3. Technocratic Reform Narrative
+- OECD standards  
+- Digital government  
+- Neutrality rhetoric  
+- OECD veil as prestige metric  
+
+↓
+
+### 4. Depoliticisation Frame
+- “Non-interference”  
+- “Serving the country”  
+- Administrative modernisation  
+
+↓
+
+### 5. Discursive Contrast
+- Liturgical reader letters  
+- Symbolic seasonal texts  
+- Non-argumentative discourse  
+
+↓
+
+### 6. Aprocedural Parasitism
+- Technocratic project draws legitimacy from political law  
+- Ethics clauses remain untouched  
+- Surface modernisation, core intact  
+
+↓
+
+### 7. Systemic Effect
+- Political function masked  
+- Neutrality projected  
+- Structural critique displaced  
+               
 
 ---
 
