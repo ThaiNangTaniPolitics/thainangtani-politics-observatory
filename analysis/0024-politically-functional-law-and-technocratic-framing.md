@@ -1,6 +1,6 @@
 ---
 ---
-# **0024 – System Map: Politically Functional Law & Technocratic Framing (2024)**  
+# **0024 – System Map: Politically Functional Law & Technocratic Framing**  
 ### *A structural analysis of legal functionality, reform rhetoric, and symbolic discourse*
 
 [Home](/thainangtani-politics-observatory/)  
