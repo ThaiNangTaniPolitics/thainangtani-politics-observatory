@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**A system analysis of refinery margins, state-funded diesel, and the MOPS linkage mechanism**  
-0025 – Akanat’s Refinery Margin Cap (3–4 baht/litre)
+**A structural analysis of windfall profits, regulatory options, and systemic incentives**  
+0026 – Windfall Tax Debate: Refinery Margins, MOPS Linkage, and State Exposure
 
 ## 📚 About the Observatory
 
