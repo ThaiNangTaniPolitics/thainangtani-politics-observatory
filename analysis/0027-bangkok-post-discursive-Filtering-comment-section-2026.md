@@ -90,7 +90,7 @@ They fall outside the **visible moderation bandwidth** of the platform.
 
     ↓
     
-###Incoming Comments
+### Incoming Comments
     - Emotional reactions
     - General opinions
     - Structural analyses
@@ -98,7 +98,7 @@ They fall outside the **visible moderation bandwidth** of the platform.
     
     ↓
     
-###Moderation Layer (Bangkok Post)
+### Moderation Layer (Bangkok Post)
     - Publishes emotional comments
     - Publishes broad policy opinions
     - Publishes diffuse economic concerns
@@ -107,7 +107,7 @@ They fall outside the **visible moderation bandwidth** of the platform.
     
     ↓
     
-###Visible Comment Field
+### Visible Comment Field
     - Sentiment-heavy discourse
     - No reference to margin mechanics
     - No reference to subsidy architecture
@@ -115,7 +115,7 @@ They fall outside the **visible moderation bandwidth** of the platform.
     
     ↓
     
-###Discursive Outcome
+### Discursive Outcome
     - Structural critique displaced
     - Emotional discourse amplified
     - Pricing architecture remains opaque
