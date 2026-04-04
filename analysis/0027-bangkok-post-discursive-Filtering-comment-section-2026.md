@@ -86,28 +86,28 @@ They fall outside the **visible moderation bandwidth** of the platform.
 
 ## **4. System Map: Platform‑Specific Discursive Filtering**
 
-Article Topic
+###Article Topic
     ↓
-Incoming Comments
+###Incoming Comments
     - Emotional reactions
     - General opinions
     - Structural analyses
     - Pricing mechanism breakdowns
     ↓
-Moderation Layer (Bangkok Post)
+###Moderation Layer (Bangkok Post)
     - Publishes emotional comments
     - Publishes broad policy opinions
     - Publishes diffuse economic concerns
     - Withholds structural mechanism analysis
     - Withholds pricing‑formula deconstruction
     ↓
-Visible Comment Field
+###Visible Comment Field
     - Sentiment-heavy discourse
     - No reference to margin mechanics
     - No reference to subsidy architecture
     - No sequence analysis
     ↓
-Discursive Outcome
+###Discursive Outcome
     - Structural critique displaced
     - Emotional discourse amplified
     - Pricing architecture remains opaque
