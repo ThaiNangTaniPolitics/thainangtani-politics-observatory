@@ -158,3 +158,5 @@ For the Observatory, this case provides a **platform‑specific example** of how
 - and public understanding of pricing architecture remains limited.
 
 It is not a claim about censorship, but an observation of **discursive shaping** within a single media interface.
+
+
