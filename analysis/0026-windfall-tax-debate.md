@@ -160,6 +160,3 @@ The underlying mechanism remains:
 
 > **Volatility is socialised; margins are privatised.**
 
-
-
-Sag einfach, wie du weiterbauen willst.
