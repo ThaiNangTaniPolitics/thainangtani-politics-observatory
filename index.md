@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**A structural analysis of legal functionality, reform rhetoric, and symbolic discourse**  
-0024 – System Map: Politically Functional Law & Technocratic Framing
+**A system analysis of refinery margins, state-funded diesel, and the MOPS linkage mechanism**  
+0025 – Akanat’s Refinery Margin Cap (3–4 baht/litre)
 
 ## 📚 About the Observatory
 
