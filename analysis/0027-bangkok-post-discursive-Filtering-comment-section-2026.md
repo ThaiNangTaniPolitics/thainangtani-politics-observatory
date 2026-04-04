@@ -86,7 +86,6 @@ They fall outside the **visible moderation bandwidth** of the platform.
 
 ## **4. System Map: Platform‑Specific Discursive Filtering**
 
-```
 Article Topic
     ↓
 Incoming Comments
@@ -112,7 +111,6 @@ Discursive Outcome
     - Structural critique displaced
     - Emotional discourse amplified
     - Pricing architecture remains opaque
-```
 
 ---
 
