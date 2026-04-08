@@ -223,7 +223,7 @@ This observation is not normative; it is a structural consequence of the archite
 
 ---
 
-# **15.6 Integrity Failure Through Environmental Manipulation**
+# **14.6 Integrity Failure Through Environmental Manipulation**
 
 A moderation system derives its legitimacy from the assumption that the communication environment is neutral, stable, and unmanipulated. If a platform alters the client‑side execution environment of its users—by modifying browser signals, injecting synthetic identifiers, or restricting functionality unless tracking is permitted—it compromises the structural integrity required for credible moderation.
 
