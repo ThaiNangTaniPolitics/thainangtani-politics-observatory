@@ -1,6 +1,6 @@
 ---
 ---
-# **0028 – Introduction: Dual Governance in Thailand**  
+# **0028 – ISOC Dual Governance in Thailand**  
 ### *Front‑End Modernization vs. Back‑End Security State*
 
 [Home](/thainangtani-politics-observatory/)  
