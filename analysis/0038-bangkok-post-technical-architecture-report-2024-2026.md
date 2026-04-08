@@ -223,6 +223,19 @@ This observation is not normative; it is a structural consequence of the archite
 
 ---
 
+# **15.6 Integrity Failure Through Environmental Manipulation**
+
+A moderation system derives its legitimacy from the assumption that the communication environment is neutral, stable, and unmanipulated. If a platform alters the client‑side execution environment of its users—by modifying browser signals, injecting synthetic identifiers, or restricting functionality unless tracking is permitted—it compromises the structural integrity required for credible moderation.
+
+A useful analogy is a courtroom in which the judge has secretly altered the microphones or sealed the windows before the proceedings begin. Even if the judge later applies the law correctly, the procedural environment has already been compromised. The legitimacy of the judgment is technically undermined before any decision is spoken.
+
+In the same way, a platform that manipulates the user’s browser forfeits the technical neutrality necessary to evaluate user contributions. The environment in which the user expresses themselves has been altered by the platform itself. As a result, any subsequent assessment of comment “quality,” “appropriateness,” or “compliance” is structurally discredited by the platform’s own interference with the communication channel.
+
+This is not a moral argument; it is a **forensic consequence** of the architecture.  
+A system that modifies the medium cannot simultaneously claim unmodified authority over the message.
+
+---
+
 ## **15. Notes**
 
 This report contains no political content and documents only technical mechanisms. All findings are based on observable code behavior. No interpretation of intent or motive is included, and no normative evaluation is provided.
