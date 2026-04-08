@@ -12,6 +12,7 @@ This section contains analytical case studies and narrative investigations.
 
 ## Available Analyses
 
+- [0038 – Bangkok Post: Communication & Technical Ecology (2024–2026)](0038-bangkok-post-communication-and-technical-ecology-2024-2026.md)
 - [0037 – Synthesis: Front‑End / Back‑End as an Integrated System](0037-isoc-synthesis-front‑end-back-end.md)
 - [0036 – Case Study: The Kamolsak Leewama Attack (2026)](0036-isoc-the-kamolsak-leewama-attack-2026.md)
 - [0035 – The Security–Monarchy Nexus](0035-isoc-the-security-monarchy-nexus.md)
