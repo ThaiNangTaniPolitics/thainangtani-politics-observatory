@@ -345,21 +345,17 @@ This double filter produces a curated, sanitised representation of public opinio
 
 ## **11. The Postbag Archive as the Only Observable Comment Space**
 
-The Postbag section is the only part of the Bangkok Post where comments are archived in a stable, retrievable form.  
-Article comment sections are not preserved: older comments disappear, links break, and past discussions cannot be reconstructed.
+The Bangkok Post does maintain an archive of article pages, and the associated comments are not deleted.
+However, this archive is not organised as a navigable catalogue. Older articles:
 
-This means that long‑term analysis of commentator behaviour, visibility patterns, and moderation dynamics is only possible in the Postbag archive.
+- do not appear in section listings,  
+- are not indexed in the site’s internal search,  
+- are not linked from any chronological or topical overview,  
+- and cannot be browsed through an archive interface.  
 
-### **Implication**
-When deletions increase specifically in the Postbag section — the only analyzable comment archive — the effect is a functional form of erasure:
+As a result, article‑level comment threads are only accessible if one already knows the exact URL of the original article. Without that specific link, the content is effectively invisible to readers and researchers.
 
-- historical patterns become invisible  
-- long‑term dominance of certain voices cannot be traced  
-- moderation trends cannot be verified  
-- the comment ecology becomes opaque  
-
-Even without assuming intent, the outcome is clear:  
-the only space where discursive patterns can be studied is being selectively thinned out, making past structures harder or impossible to reconstruct.
+By contrast, the Postbag archive is the only structured, consistently retrievable comment space, making it the only location where long‑term visibility patterns, commentator behaviour, and moderation dynamics can be systematically observed.
 
 ---
 
