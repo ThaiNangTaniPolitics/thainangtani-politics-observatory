@@ -62,6 +62,3 @@ This repository documents:
 
 Each part is modular and can be read independently or as a complete analytical framework.
 
-
-
-Wenn du bereit bist, schreibe ich **002 – Historical Development of ISOC** im selben Stil.
