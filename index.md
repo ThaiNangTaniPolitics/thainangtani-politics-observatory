@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Bangkok Post: A factual analysis of visibility structures, moderation mechanics, and technical architecture**  
-0038 – Bangkok Post: Communication & Technical Ecology (2024–2026)
+**Bangkok Post: A factual analysis of browser manipulation, tracking systems, ad‑tech integrations, and code‑level mechanisms**  
+0038 – Bangkok Post: Technical Architecture Report (2024–2026)
 
 ## 📚 About the Observatory
 
