@@ -163,6 +163,8 @@ This creates a **uniform additional identifier** across all clients.
 
 This is a factual description of the code’s effect.
 
+It facilitates cross‑session attribution within a closed ad‑tech ecosystem.
+
 ---
 
 ## **C. Coercive Monetization Mechanism: Ad‑Blocker Evasion**
