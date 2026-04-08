@@ -359,21 +359,20 @@ By contrast, the Postbag archive is the only structured, consistently retrievabl
 
 ---
 
-## 12. The Postbag Archive as a Target of Structural Erasure
+**12. The Postbag Archive as the Only Structured and Navigable Comment Space**
 
-The Postbag archive is the only part of the Bangkok Post where comments are preserved in a stable, retrievable form.  
-Article comment sections disappear, break, or become inaccessible, making long‑term analysis impossible outside the Postbag.
+The Bangkok Post does maintain an archive of article pages, and the associated comments are not deleted.  
+However, this archive is **not organised as a catalogue**. There is:
 
-When deletions increase specifically in this only analyzable archive, the effect is twofold:
+- no index,  
+- no chronological listing,  
+- no topical grouping,  
+- no search-accessible register of older articles.
 
-1. **Prevention of evidence**  
-   Patterns of deletion, dominance, or selective visibility can no longer be reconstructed.
+The archive exists, but **not as a navigable system**.  
+Older articles — and their comment threads — can only be accessed if one already knows the **exact URL**. Without that specific link, they are effectively invisible to readers and researchers.
 
-2. **Erasure of discursive history**  
-   The historical record of commentator behaviour and moderation dynamics becomes fragmented or disappears entirely.
-
-Even without assuming intent, the functional outcome is clear:  
-the only space where discursive structures can be studied is selectively thinned out, making past patterns harder or impossible to verify.
+By contrast, the Postbag archive is the **only structured and publicly navigable comment space**, making it the only location where long‑term patterns of visibility, commentator behaviour, and moderation dynamics can be systematically observed.
 
 ---
 
