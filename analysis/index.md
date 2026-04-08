@@ -12,6 +12,7 @@ This section contains analytical case studies and narrative investigations.
 
 ## Available Analyses
 
+- [0034 – Budgetary Exceptionalism and Security Finance](0034-isoc-budgetary-exceptionalism-and-security-finance.md)
 - [0033 – Administrative Penetration and Parallel Governance](0033-isoc-administrative-penetration-and-parallel-governance.md)
 - [0032 – Ideological Conditioning and Identity Production](0032-isoc-ideological-conditioning-and-identity-production.md)
 - [0031 – Mass Organizations and Social Control](0031-isoc-mass-organizations-and-social-control.md)
