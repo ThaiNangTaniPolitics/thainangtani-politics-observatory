@@ -162,7 +162,7 @@ In this configuration, the site’s usability becomes a direct consequence of th
 
 ---
 
-# **13. Regulatory Considerations in an International Context**
+## **13. Regulatory Considerations in an International Context**
 
 The technical architecture documented in this report raises questions about regulatory compatibility when evaluated against international data‑protection and consumer‑protection standards. While regulatory frameworks differ across jurisdictions, several of the mechanisms observed on the Bangkok Post website intersect with principles that are widely recognized in global privacy and telecommunication regulations.
 
@@ -176,23 +176,23 @@ This section does not evaluate the legality of the system in any specific jurisd
 
 ---
 
-# **14. PDPA Compliance Assessment (Technical–Legal Analysis)**
+## **14. PDPA Compliance Assessment (Technical–Legal Analysis)**
 
 The technical mechanisms documented in this report intersect with several provisions of the Thai Personal Data Protection Act (PDPA). This section provides a neutral, technical assessment of these intersections. It does not evaluate intent; it evaluates observable system behavior against statutory requirements.
 
-## **14.1 Transparency Requirements (Section 23 PDPA)**
+### **14.1 Transparency Requirements (Section 23 PDPA)**
 
 Section 23 of the PDPA requires that data subjects be informed of the purpose, method, and scope of data collection in a clear and transparent manner. Several mechanisms identified in this report complicate compliance with this requirement.
 
 The plugin‑array randomization described in Section 3.1 actively alters the browser’s fingerprint by injecting synthetic plugin entries and shuffling their order. This creates a fingerprint that does not correspond to the user’s actual environment. Because the system presents fabricated information to the browser, the resulting data flow is not transparent to the user and cannot be meaningfully disclosed in a privacy notice. A mechanism that intentionally obscures its own operational characteristics is structurally incompatible with the PDPA’s transparency obligations.
 
-## **14.2 Valid Consent Requirements (Section 19 PDPA)**
+### **14.2 Valid Consent Requirements (Section 19 PDPA)**
 
 Section 19 requires that consent be explicit, voluntary, and informed. Consent must be obtained **before** any processing of personal data that is not strictly necessary for service delivery.
 
 The dynamic execution model enabled by Google Tag Manager, described in Section 6.2, allows tracking logic to be injected and executed before the user has provided consent. Because GTM can load scripts at runtime that are not visible in the static HTML, the system may execute tracking‑related code during or even prior to the consent‑banner interaction. In such cases, the user’s choice is not operationally meaningful, and the consent cannot be considered valid under Section 19.
 
-## **14.3 Right to Object (Section 32 PDPA)**
+### **14.3 Right to Object (Section 32 PDPA)**
 
 Section 32 grants data subjects the right to object to the processing of their personal data. From a technical perspective, the use of an ad‑blocker constitutes a clear expression of this objection, as it prevents the loading of tracking and advertising scripts.
 
@@ -200,7 +200,7 @@ The integration of AdRecover, documented in Section 5.1, is designed to circumve
 
 ---
 
-# **14.4 Summary of PDPA Intersection**
+### **14.4 Summary of PDPA Intersection**
 
 The combination of fingerprint manipulation, dynamic script injection, pre‑consent execution, and ad‑blocker circumvention places the observed architecture in tension with several core PDPA principles:
 
@@ -212,7 +212,7 @@ This assessment is based solely on observable technical behavior and statutory r
 
 ---
 
-# **14.5 Structural Integrity of Moderation Under Technical Manipulation**
+### **14.5 Structural Integrity of Moderation Under Technical Manipulation**
 
 A platform that modifies the client‑side execution environment of its users through fingerprint manipulation, dynamic script injection, ad‑tech enforcement routines, or browser‑level interference operates outside the normative expectations of a neutral communication medium. When the system alters the user’s browser state, injects synthetic identifiers, or deploys mechanisms that restrict usability unless tracking is permitted, the platform’s technical posture undermines its own claim to evaluate user contributions on the basis of quality, authenticity, or compliance.
 
@@ -222,7 +222,7 @@ This observation is not normative; it is a structural consequence of the archite
 
 ---
 
-# **14.6 Integrity Failure Through Environmental Manipulation**
+### **14.6 Integrity Failure Through Environmental Manipulation**
 
 A moderation system derives its legitimacy from the assumption that the communication environment is neutral, stable, and unmanipulated. If a platform alters the client‑side execution environment of its users—by modifying browser signals, injecting synthetic identifiers, or restricting functionality unless tracking is permitted—it compromises the structural integrity required for credible moderation.
 
