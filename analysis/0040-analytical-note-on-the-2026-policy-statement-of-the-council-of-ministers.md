@@ -340,5 +340,11 @@ These remarks do not alter the substance of the policy statement itself, but the
 
 ---
 
+# **8.2 Media framing contrast**
+
+Coverage by other media outlets, such as the Thai Enquirer, presented the policy statement as a coherent and comprehensive national strategy built around five strategic pillars and 23 priority policies. This reporting emphasised the document’s breadth, its alignment with constitutional principles, and its narrative coherence in the face of global uncertainty. The contrast between this framing and the concerns raised in parliamentary debate illustrates the structural character of the policy statement: its high‑level architecture allows for both positive narrative interpretation and critical scrutiny, depending on the lens applied. This dual readability reinforces the analysis in this report that the document is broad, principle‑driven and administratively framed, with limited operational specificity.
+
+---
+
 **In short:**  
 The 2026 policy statement is a **constitutionally framed, administratively driven modernisation programme**. It uses the Constitution as a **legitimating narrative**, while the real engine of change lies in **technocratic instruments** that are only loosely tied back to constitutional structure. Where Thailand’s problems are most structural—power distribution, enforcement, accountability—the document is **at its vaguest**. Where the government’s political will is strongest—defence reform, digital government, omnibus law—it is **most concrete**, but **least explicit** about the constitutional implications.
