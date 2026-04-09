@@ -357,5 +357,11 @@ Additional reporting on the policy statement highlighted that the foreign‑poli
 
 ---
 
+# **8.5 Foreign‑policy specificity and constitutional framing**
+
+Additional reporting on the policy statement emphasised the government’s intention to strengthen border security, develop integrated data‑sharing systems, and accelerate a study on the possible termination of the 2001 maritime MoU with Cambodia. These items were presented alongside the familiar constitutional legitimacy formula — protection of Nation–Religion–Monarchy, democratic governance under the King, and adherence to the rule of law. This combination illustrates a recurring structural pattern: broad constitutional framing paired with selective specificity in politically salient areas, while the wider foreign‑policy architecture remains general and conceptually framed. The article therefore reinforces the analysis that the policy statement mixes high‑level principles with targeted operational signals, without providing a detailed strategic or institutional roadmap.
+
+---
+
 **In short:**  
 The 2026 policy statement is a **constitutionally framed, administratively driven modernisation programme**. It uses the Constitution as a **legitimating narrative**, while the real engine of change lies in **technocratic instruments** that are only loosely tied back to constitutional structure. Where Thailand’s problems are most structural—power distribution, enforcement, accountability—the document is **at its vaguest**. Where the government’s political will is strongest—defence reform, digital government, omnibus law—it is **most concrete**, but **least explicit** about the constitutional implications.
