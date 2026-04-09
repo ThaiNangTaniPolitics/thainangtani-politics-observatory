@@ -131,7 +131,7 @@ In Thailand’s media landscape, political embedding is a pattern, not an anomal
 
 ---
 
-# **5. Change in the comment system (from March 2026)**
+## **5. Change in the comment system (from March 2026)**
 
 Between 2024 and early 2026, the Bangkok Post’s comment system functioned normally.  
 Users could submit comments, and moderation occurred after publication.  
