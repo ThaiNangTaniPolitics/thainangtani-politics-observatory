@@ -79,7 +79,7 @@ https://anymind360.com/js/1855/ats.js
 ```
 
 This script correlates session identifiers, browser fingerprints, and behavioral signals. When partially blocked (e.g., by browser extensions), the script may initialize inconsistently, leading to incomplete or corrupted session‑state reconstruction.  
-Browsers that block such scripts at the network layer (e.g., Brave) avoid these inconsistencies by preventing the entire attribution chain from loading.
+Browsers that block such scripts avoid these inconsistencies by preventing the entire attribution chain from loading.
 
 ```
                    ┌──────────────────────────────┐
