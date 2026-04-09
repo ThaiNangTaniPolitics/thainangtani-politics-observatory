@@ -343,40 +343,25 @@ This double filter produces a curated, sanitised representation of public opinio
 
 ---
 
-## **11. The Postbag Archive as the Only Observable Comment Space**
+## 11. The Postbag Archive as the Only Structured and Observable Comment Space
 
-The Bangkok Post does maintain an archive of article pages, and the associated comments are not deleted.
-However, this archive is not organised as a navigable catalogue. Older articles:
+The Bangkok Post maintains an archive of article pages, and the associated comments are not deleted.  
+However, this archive is **not organised as a navigable system**:
 
-- do not appear in section listings,  
-- are not indexed in the site’s internal search,  
-- are not linked from any chronological or topical overview,  
-- and cannot be browsed through an archive interface.  
+- no index  
+- no chronological listing  
+- no topical grouping  
+- no internal search visibility  
+- older articles accessible only via **exact URLs**
 
-As a result, article‑level comment threads are only accessible if one already knows the exact URL of the original article. Without that specific link, the content is effectively invisible to readers and researchers.
+Functionally, this makes article‑level comment threads **invisible** to readers and researchers unless they already know the specific link.
 
-By contrast, the Postbag archive is the only structured, consistently retrievable comment space, making it the only location where long‑term visibility patterns, commentator behaviour, and moderation dynamics can be systematically observed.
-
----
-
-**12. The Postbag Archive as the Only Structured and Navigable Comment Space**
-
-The Bangkok Post does maintain an archive of article pages, and the associated comments are not deleted.  
-However, this archive is **not organised as a catalogue**. There is:
-
-- no index,  
-- no chronological listing,  
-- no topical grouping,  
-- no search-accessible register of older articles.
-
-The archive exists, but **not as a navigable system**.  
-Older articles — and their comment threads — can only be accessed if one already knows the **exact URL**. Without that specific link, they are effectively invisible to readers and researchers.
-
-By contrast, the Postbag archive is the **only structured and publicly navigable comment space**, making it the only location where long‑term patterns of visibility, commentator behaviour, and moderation dynamics can be systematically observed.
+By contrast, the Postbag archive is the **only structured, consistently retrievable comment space** on the site.  
+It is therefore the only location where long‑term visibility patterns, commentator behaviour, and moderation dynamics can be systematically observed.
 
 ---
 
-## 13. Legal Risk Mitigation as a Parallel Mechanism
+## 12. Legal Risk Mitigation as a Parallel Mechanism
 
 In the Thai legal environment, archived user comments can create significant risks for media outlets.  
 Certain laws — including those with broad or retrospective applicability — mean that comments which were harmless at the time of publication may later be interpreted differently or flagged by complainants.
