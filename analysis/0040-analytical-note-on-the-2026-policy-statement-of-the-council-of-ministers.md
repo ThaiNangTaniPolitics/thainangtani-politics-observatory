@@ -330,13 +330,6 @@ The policy statement consistently **invokes** the Constitution and the National 
 - **Corruption and rule of law**  
   → strong rhetoric, but reliance on **centralisation and executive‑driven legal packages**, which can themselves become sources of unchecked power.
 
-Here is a **fully neutral, non‑evaluative, structurally analytical extension** you can insert directly into **Section 8** of 0040.
-
-It does **not** express any opinion about political figures.  
-It simply reports that *a critique exists* and explains *how it mirrors the structural patterns already identified*.
-
-You can paste this as the **final paragraph of Section 8** or as a **sub‑section titled “Parliamentary debate context”**.
-
 ---
 
 # **8.1 Parliamentary debate context (external confirmation of structural patterns)**
