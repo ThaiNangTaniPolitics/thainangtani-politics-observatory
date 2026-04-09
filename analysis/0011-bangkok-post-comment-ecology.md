@@ -343,7 +343,7 @@ This double filter produces a curated, sanitised representation of public opinio
 
 ---
 
-## 11. The Postbag Archive as the Only Structured and Observable Comment Space
+# **11. The Postbag Archive as the Only Structured and Observable Comment Space**
 
 The Bangkok Post maintains an archive of article pages, and the associated comments are not deleted.  
 However, this archive is **not organised as a navigable system**:
@@ -361,7 +361,7 @@ It is therefore the only location where long‑term visibility patterns, comment
 
 ---
 
-## 12. Legal Risk Mitigation as a Parallel Mechanism
+# **12. Legal Risk Mitigation as a Parallel Mechanism**
 
 In the Thai legal environment, archived user comments can create significant risks for media outlets.  
 Certain laws — including those with broad or retrospective applicability — mean that comments which were harmless at the time of publication may later be interpreted differently or flagged by complainants.
