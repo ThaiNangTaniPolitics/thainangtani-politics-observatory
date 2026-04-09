@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Bangkok Post: A factual analysis of browser manipulation, tracking systems, ad‑tech integrations, and code‑level mechanisms**  
-0038 – Bangkok Post: Technical Architecture Report (2024–2026)
+**A structural analysis of internal contradictions, legal–procedural tensions, and implementation feasibility**  
+0039 – Policy Statement of the Council of Ministers (2025): Forensic Consistency Report
 
 ## 📚 About the Observatory
 
