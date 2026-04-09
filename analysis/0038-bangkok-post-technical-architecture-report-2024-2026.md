@@ -148,7 +148,7 @@ These characteristics are derived directly from the HTML snapshot and observed r
 
 ---
 
-# **12. Client‑Side Behavior on Mobile Browsers**
+## **12. Client‑Side Behavior on Mobile Browsers**
 
 The usability of the Bangkok Post website is strongly dependent on the client‑side filtering strategy, particularly on mobile devices. On standard mobile browsers, the high density of ad‑tech dependencies—including resources from Taboola, AnyMind360, Pubmatic, and AdRecover—frequently results in functional degradation of the user interface. Several of these scripts are not limited to advertising delivery; they also initialize critical interface components such as scroll controllers, dynamic content modules, and event‑driven layout logic. When these dependencies are blocked, the corresponding interface components may fail to initialize, leading to reduced usability.
 
