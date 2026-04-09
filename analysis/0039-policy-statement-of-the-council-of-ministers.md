@@ -243,24 +243,7 @@ The result is a **goal–mechanism gap**: the target (net zero) is stated, but t
 
 ---
 
-## **7. Temporal and narrative coherence**
-
-The document is:
-
-- dated 29 September 2025,  
-- framed as the initial policy statement of a newly formed government,  
-- and refers to appointments and royal commands from early and mid‑September 2025.
-
-If the same text is later presented in 2026 as a **current or newly articulated policy framework**, this creates a **temporal misalignment**:
-
-- the content reflects the situation at government formation,  
-- not the evolved context after several months of governance.
-
-From a forensic documentation standpoint, this is a **versioning issue**: a policy artifact from 2025 being used without explicit version labeling in a 2026 context can obscure the distinction between **original intent** and **current practice**.
-
----
-
-## **8. System‑level assessment**
+## **7. System‑level assessment**
 
 From a structural perspective, the policy statement exhibits:
 
