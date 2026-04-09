@@ -96,6 +96,56 @@ gtag('consent', 'default', {
 If the consent‑initialization sequence is interrupted—such as when GTM loads but its dependent scripts are blocked—the login flow may wait for consent‑state signals that never arrive. This results in silent authentication failures on browsers where scripts load partially.  
 Browsers that block GTM entirely bypass this failure mode and fall back to a simpler, non‑tracking‑dependent login path.
 
+                   ┌──────────────────────────────┐
+                   │  __bwp Cookie (Base64, PHP)  │
+                   └───────────────┬──────────────┘
+                                   │
+                                   ▼
+                     decodeURIComponent(rawCookie)
+                                   │
+                                   ▼
+                               atob()  ← Critical point
+                                   │
+                                   ▼
+                   ┌────────────────────────────────────┐
+                   │  PHP‑serialized session object     │
+                   │  (user_email, user_id, role, ...)  │
+                   └───────────────────┬────────────────┘
+                                       │
+                                       ▼
+                         Client‑side session reconstruction
+                                       │
+                                       ▼
+        ┌──────────────────────────────────────────────────────────────┐
+        │ Parallel third‑party and consent‑mode dependencies           │
+        └───────────────┬───────────────────────────────┬────────────┘
+                        │                               │
+                        ▼                               ▼
+        AnyMind ATS (ats.js)                 Google Consent Mode / GTM
+        Session‑ID correlation               waits for consent signals
+        Fingerprinting                       loads dynamic scripts
+                        │                               │
+                        └──────────────┬────────────────┘
+                                       ▼
+                         Authentication flow dependency
+                                       │
+                                       ▼
+        ┌──────────────────────────────────────────────────────────────┐
+        │        Divergent browser behavior under blocking             │
+        └───────────────────────┬──────────────────────────────────────┘
+                                │
+                                │
+        ┌───────────────────────┴──────────────────────────────┐
+        │                                                       │
+        ▼                                                       ▼
+   Edge (with blockers)                                   Brave
+   - Scripts load partially                               - Scripts blocked at
+   - ATS half‑initialized                                   network layer
+   - Missing consent events                               - No GTM, no ATS
+   - Inconsistent session state                           - Stable fallback login
+   - Silent login failure                                 - Login succeeds
+
+
 ### **Summary**
 
 The `__bwp` cookie introduces a client‑side dependency on serialized session reconstruction. When combined with attribution scripts and consent‑mode initialization, this creates a fragile authentication architecture that fails under partial script‑blocking conditions. Browsers that block the entire tracking chain at the network level avoid these inconsistencies by preventing the dependent mechanisms from executing.
