@@ -91,11 +91,8 @@ gtag('consent', 'default', {
     'ad_personalization': 'denied',
     ...
 });
-```
 
-If the consent‑initialization sequence is interrupted—such as when GTM loads but its dependent scripts are blocked—the login flow may wait for consent‑state signals that never arrive. This results in silent authentication failures on browsers where scripts load partially.  
-Browsers that block GTM entirely bypass this failure mode and fall back to a simpler, non‑tracking‑dependent login path.
-
+```text
                    ┌──────────────────────────────┐
                    │  __bwp Cookie (Base64, PHP)  │
                    └───────────────┬──────────────┘
@@ -144,7 +141,7 @@ Browsers that block GTM entirely bypass this failure mode and fall back to a sim
    - Missing consent events                               - No GTM, no ATS
    - Inconsistent session state                           - Stable fallback login
    - Silent login failure                                 - Login succeeds
-
+```
 
 ### **Summary**
 
