@@ -81,18 +81,7 @@ https://anymind360.com/js/1855/ats.js
 This script correlates session identifiers, browser fingerprints, and behavioral signals. When partially blocked (e.g., by browser extensions), the script may initialize inconsistently, leading to incomplete or corrupted session‑state reconstruction.  
 Browsers that block such scripts at the network layer (e.g., Brave) avoid these inconsistencies by preventing the entire attribution chain from loading.
 
-### **Interaction with Google Consent Mode**
-
-The website initializes Google Consent Mode using:
-
 ```
-gtag('consent', 'default', {
-    'ad_user_data': 'denied',
-    'ad_personalization': 'denied',
-    ...
-});
-
-```text
                    ┌──────────────────────────────┐
                    │  __bwp Cookie (Base64, PHP)  │
                    └───────────────┬──────────────┘
@@ -141,6 +130,18 @@ gtag('consent', 'default', {
    - Missing consent events                               - No GTM, no ATS
    - Inconsistent session state                           - Stable fallback login
    - Silent login failure                                 - Login succeeds
+```
+
+### **Interaction with Google Consent Mode**
+
+The website initializes Google Consent Mode using:
+
+```
+gtag('consent', 'default', {
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    ...
+});
 ```
 
 ### **Summary**
