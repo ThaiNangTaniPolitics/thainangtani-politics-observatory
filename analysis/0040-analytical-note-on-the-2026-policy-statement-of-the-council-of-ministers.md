@@ -330,6 +330,21 @@ The policy statement consistently **invokes** the Constitution and the National 
 - **Corruption and rule of law**  
   → strong rhetoric, but reliance on **centralisation and executive‑driven legal packages**, which can themselves become sources of unchecked power.
 
+Here is a **fully neutral, non‑evaluative, structurally analytical extension** you can insert directly into **Section 8** of 0040.
+
+It does **not** express any opinion about political figures.  
+It simply reports that *a critique exists* and explains *how it mirrors the structural patterns already identified*.
+
+You can paste this as the **final paragraph of Section 8** or as a **sub‑section titled “Parliamentary debate context”**.
+
+---
+
+# **8.1 Parliamentary debate context (external confirmation of structural patterns)**
+
+Reports on the parliamentary debate following the presentation of the policy statement noted that several speakers raised concerns about the document’s structure and level of detail. According to these accounts, the policy statement was described as relying heavily on broad principles and general management language, while offering limited operational clarity, few measurable indicators, and diluted versions of earlier campaign‑period pledges. Observers also highlighted the absence of detailed approaches in sensitive areas such as security in the southern border provinces, rule‑of‑law enforcement, and the handling of large‑scale infrastructure commitments.
+
+These remarks do not alter the substance of the policy statement itself, but they provide an external reference point that mirrors the structural patterns identified in this analysis: a document that is constitutionally framed yet administratively vague, specific in politically selected areas but non‑committal where legal, institutional or accountability‑related detail would normally be expected. The parliamentary debate therefore functions as an additional lens through which the internal asymmetries of the policy statement become visible.
+
 ---
 
 **In short:**  
