@@ -71,7 +71,9 @@ This produces a **structural mismatch**:
 | Stability of political competition | Increased institutional conflict involving elected representatives |
 | Safeguards for pluralism | Elevated sensitivity around political expression and reform proposals |
 
-These contrasts do not constitute normative judgments; they represent **analytical discrepancies** between OECD accession criteria and the institutional environment observed during the consolidation and escalation phases.
+**Analytical interpretation of the discrepancy**
+
+The OECD’s accession framework is grounded in shared governance principles, including pluralistic democracy, predictable rule‑of‑law processes, and safeguards for political participation. The institutional escalation observed in Thailand between 2024 and 2026—characterised by high‑impact legal processes involving elected representatives, the activation of procedures through private complaints, and procedural sequences that unfold with limited discretionary interruption—creates a complex environment for such evaluations. These dynamics differ significantly from the governance conditions typically associated with OECD accession trajectories, which emphasise stability, foreseeability, and institutional balance. This does not imply a normative assessment; rather, it highlights a structural discrepancy between the OECD’s shared governance principles and the institutional patterns documented during the escalation phase. For accession processes that rely on predictable legal environments and stable parliamentary functioning, such discrepancies become central analytical considerations.
 
 ## **5. Implications for long‑term reform trajectories**
 
