@@ -156,3 +156,9 @@ This produces a public sphere in which:
 - constitutional mechanics operate without public scrutiny
 
 Discursive filtering is therefore a **non‑institutional extension** of the constitutional mechanics documented in Chapters 0012–0018.
+
+<p align="center">
+  <a href="../images/0019.png">
+    <img src="../images/0019.png" alt="0019" width="480">
+  </a>
+</p>
