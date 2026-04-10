@@ -378,7 +378,7 @@ Finally, the expansion of ethical oversight into the domain of legislative condu
 
 
 <p align="center">
-  <img src="../images/piep_piep2.png" alt="Piep Piep" style="max-width: 100%; height: auto; width: 480px;">
+  <img src="../images/0041_s.png" alt="0041_s" style="max-width: 100%; height: auto; width: 480px;">
 </p>
 
 
