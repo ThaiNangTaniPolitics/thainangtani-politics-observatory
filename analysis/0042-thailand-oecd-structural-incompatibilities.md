@@ -94,4 +94,4 @@ Accession processes rely on:
 
 When these conditions are under strain, the credibility and sequencing of external reform commitments become more complex.
 
-- oder eine **grafische Übersicht** der drei Ebenen (OECD‑Standards / nationale Prozesse / Eskalationsmechanismus) hinzufügen.
+
