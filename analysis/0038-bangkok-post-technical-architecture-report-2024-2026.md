@@ -329,8 +329,8 @@ A system that modifies the medium cannot simultaneously claim unmodified authori
 This report contains no political content and documents only technical mechanisms. All findings are based on observable code behavior. No interpretation of intent or motive is included, and no normative evaluation is provided.
 
 <p align="center">
-  <a href="../images/0038_s.png">
-    <img src="../images/0038_s.png" alt="0038_s" width="480">
+  <a href="../images/0038.png">
+    <img src="../images/0038_s.png" alt="0038" width="480">
   </a>
 </p>
 
