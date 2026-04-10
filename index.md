@@ -23,8 +23,8 @@ The goal is not advocacy, but **structured observation**.
 
 ## 📌 Latest Update
 
-**Substantive content, constitutional anchoring, internal contradictions, and mismatch with Thailand’s structural problems**  
-0040 – Analytical note on the 2026 policy statement of the Council of Ministers 
+**Judicial expansion, institutional entrenchment, and the transformation of constitutional meaning**  
+0041 – Section 112 in the Consolidation Phase (2024–2026) 
 
 ## 📚 About the Observatory
 
