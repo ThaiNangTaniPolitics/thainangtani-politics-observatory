@@ -223,7 +223,19 @@ When combined with the possibility of suspending ten sitting MPs before a final 
 
 ---
 
-## **CONCLUSION**
+## **11. The Decline of Classical Parliamentary Immunity: Structural Reconfiguration of Legislative Protection**
+
+A further structural development of the 2024–2026 consolidation phase is the effective erosion of classical parliamentary immunity. In many parliamentary systems, immunity protects core legislative functions—proposing bills, debating, and voting—from judicial or administrative intervention. Its purpose is functional rather than personal: to ensure that legislators can engage in democratic deliberation without fear of sanction.
+
+The ethics proceedings against 44 MPs for co‑sponsoring the 2021 reform bill mark a departure from this traditional model. Legislative activity itself became subject to ethical scrutiny, not on the basis of personal misconduct but on the grounds of constitutional incompatibility. Under this expanded interpretation, the intent and ideological orientation of a legislative proposal can constitute an ethical violation if deemed inconsistent with the constitutional order.
+
+This shift reconfigures the balance between parliamentary autonomy and constitutional protection. Legislative immunity yields to a broader duty to safeguard the state’s foundational structure, as defined by judicial interpretation. The possibility of suspending MPs before a final ruling further illustrates this transformation: preventive measures, historically reserved for corruption or personal wrongdoing, now extend into the domain of legislative conduct.
+
+The resulting framework narrows the operational space of parliamentary deliberation. It establishes a precedent in which legislative initiatives touching constitutionally sensitive domains—particularly Section 112—are subject to pre‑emptive institutional intervention. This development contributes to the broader consolidation pattern by redefining the functional boundaries of parliamentary activity and signalling the end of classical immunity in the Thai context.
+
+---
+
+## **CONCLUSION (final integrated version)**
 
 Between 2024 and 2026, Section 112 underwent a process of judicial expansion and institutional entrenchment that consolidated the transformation documented in 0012. The Constitutional Court’s 2024 ruling placed Section 112 beyond ordinary democratic deliberation, while criminal enforcement intensified and media coverage fragmented the public understanding of these developments.
 
@@ -235,5 +247,8 @@ A further consequence of this configuration is the emergence of a self‑limitin
 
 The consolidation phase also introduced a pattern of institutional pre‑judgment, in which preventive measures and high‑volume case intake were activated before final rulings were issued. These mechanisms do not determine outcomes, but they signal the elevation of Section 112 into a domain of heightened constitutional sensitivity and further entrench its position outside ordinary legislative contestation.
 
+Finally, the expansion of ethical oversight into the domain of legislative conduct marks a structural redefinition of parliamentary immunity. The shift from protecting legislative autonomy to enforcing constitutional conformity indicates the effective end of classical immunity in the Thai context and further constrains the scope of permissible parliamentary engagement with Section 112.
+
 Section 112 remains formally amendable.  
 In practice, the consolidation phase has rendered meaningful reform structurally unattainable within the existing institutional framework.
+
