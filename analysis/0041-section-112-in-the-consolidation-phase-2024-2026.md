@@ -154,14 +154,41 @@ The consolidation phase had direct implications for parliamentary functioning:
 The cumulative effect was a structural weakening of parliamentary checks and balances.
 
 ---
+Hier sind die beiden Bausteine, fertig formuliert für 0041 – du kannst sie direkt einfügen.
+
+---
+
+## **7. Comparative note: International variations in monarch‑protection laws**
+
+Many constitutional monarchies maintain legal provisions that protect the head of state or the royal institution from defamation or threats. The scope, enforcement mechanisms, and institutional consequences of such provisions, however, vary significantly across jurisdictions.
+
+In several European monarchies, specific lèse‑majesté provisions have been abolished or rendered largely dormant. The United Kingdom no longer maintains a dedicated offence for insulting the monarch; the Netherlands and Denmark have repealed their lèse‑majesté provisions and rely instead on general defamation law; Sweden has no special protection for the monarch beyond ordinary legal norms. In Spain, legal provisions protecting the Crown remain in force but are rarely applied, and convictions have repeatedly been found disproportionate by the European Court of Human Rights.
+
+In Asia, some monarchies and royal systems retain protection laws, but their institutional reach is more limited. Japan does not maintain a specific offence for insulting the Emperor. Malaysia and Cambodia have provisions that protect royal figures, but their application is narrower in scope and does not extend to party dissolution or parliamentary disqualification.
+
+Thailand’s configuration is distinctive in this comparative context. Section 112 combines a relatively high penalty range (3–15 years per count, with cumulative sentencing), frequent application in political and digital contexts, and a broad standing to initiate complaints. In addition, the provision is embedded in a wider institutional architecture that includes constitutional court interpretation, party dissolution mechanisms, ethics proceedings against MPs, and the potential for long‑term political bans. This combination of criminal, constitutional, and political consequences makes the Thai model one of the most far‑reaching monarch‑protection regimes among contemporary constitutional monarchies. This observation is descriptive rather than normative and serves to situate the Thai case within a broader comparative landscape.
+
+---
+
+## **8. Analytical explanation of the 2024–2026 novum**
+
+The sequence formed by the 2024 dissolution of the Move Forward Party and the 2026 ethics proceedings against 44 former MFP MPs constitutes a structural novum in Thailand’s political‑legal history. For the first time, a legislative initiative – the 2021 proposal to amend Section 112 – has generated two distinct waves of institutional sanctions: first at the party level, then at the level of individual parliamentarians.
+
+From an analytical perspective, this novum can be understood without attributing motives or intentions. Comparative political science has long observed that institutions tend to react most intensively to actors that possess high electoral visibility or parliamentary weight. In many systems, parties that achieve strong electoral results or become central opposition forces are more likely to trigger constitutional review, regulatory scrutiny, or ethics proceedings, simply because their actions have greater systemic impact.
+
+In the Thai case, the Move Forward Party won the largest share of the popular vote in 2023, and its successor, the People’s Party, emerged as the principal opposition force after the 2026 election. Against this backdrop, it is analytically unsurprising that institutional mechanisms were activated in response to their earlier legislative actions. The 2024 Constitutional Court ruling and the 2026 NACC‑driven ethics referrals can thus be seen as manifestations of what might be termed institutional sensitivity to political visibility: the tendency of legal and oversight bodies to focus on actors whose parliamentary presence and agenda‑setting capacity are particularly significant.
+
+This explanation does not imply any judgment about the legitimacy, proportionality, or intent of these processes. It simply situates the 2024–2026 sequence within a broader pattern observed in other political systems: when a legislative initiative touches a constitutionally sensitive domain and is carried by a highly visible political actor, the likelihood and intensity of institutional responses increase. In Thailand, the combination of Section 112’s protected status and the electoral strength of the parties associated with its proposed reform has produced a configuration that is, in its cumulative effect, without clear precedent in other constitutional monarchies.
+
+---
 
 ## **CONCLUSION**
 
-Between 2024 and 2026, Section 112 underwent a process of judicial expansion and institutional entrenchment that consolidated the transformation documented in 0012.  
-The Constitutional Court’s 2024 ruling placed Section 112 beyond ordinary democratic deliberation, while criminal enforcement intensified and media coverage fragmented the public understanding of these developments.
+Between 2024 and 2026, Section 112 underwent a process of judicial expansion and institutional entrenchment that consolidated the transformation documented in 0012. The Constitutional Court’s 2024 ruling placed Section 112 beyond ordinary democratic deliberation, while criminal enforcement intensified and media coverage fragmented the public understanding of these developments.
 
-The contrast between the monarch’s 2005 articulation of criticism as a safeguard and the later judicial doctrine of insulation highlights the extent of this transformation.
+The contrast between the monarch’s 2005 articulation of criticism as a safeguard and the later judicial doctrine of insulation illustrates the extent to which the constitutional meaning of Section 112 has shifted. The international comparison shows that Thailand’s configuration—combining criminal penalties, constitutional interpretation, party dissolution mechanisms, ethics proceedings, and potential political bans—constitutes one of the most far‑reaching monarch‑protection regimes among contemporary constitutional monarchies.
+
+The 2024–2026 sequence also represents a structural novum: for the first time, a single legislative initiative generated two waves of institutional consequences—first at the party level, then at the level of individual parliamentarians. This dual response aligns with a broader pattern observed in comparative political systems, in which institutions react most intensively to actors with high electoral visibility. The combination of Section 112’s protected status and the electoral strength of the parties associated with its proposed reform produced an institutional configuration without clear precedent.
 
 Section 112 remains formally amendable.  
-In practice, the consolidation phase has rendered meaningful reform structurally unattainable.
-
+In practice, the consolidation phase has rendered meaningful reform structurally unattainable within the existing institutional framework.
