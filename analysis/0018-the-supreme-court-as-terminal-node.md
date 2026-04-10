@@ -122,3 +122,9 @@ The Supreme Court’s Criminal Division for Persons Holding Political Positions 
 Through automatic suspension, interpretive evidentiary standards, and irreversible bans, it defines the limits of democratic participation and the boundaries of legislative autonomy.
 
 The Terminal Node is not merely a court of law; it is the **endpoint of political viability**.
+
+<p align="center">
+  <a href="../images/0018.png">
+    <img src="../images/0018.png" alt="0018" width="480">
+  </a>
+</p>
