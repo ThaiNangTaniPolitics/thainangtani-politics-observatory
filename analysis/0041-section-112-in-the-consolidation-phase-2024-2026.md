@@ -310,17 +310,47 @@ From an analytical perspective, the relevance of ESSF lies not in providing dire
 
 ---
 
-## **CONCLUSION (final integrated version)**
+## **13. Complaint‑Driven Activation: The Role of Teerayut Suwankesorn in the Enforcement Sequence**
+
+A central feature of the 2024–2026 consolidation phase was the activation of institutional processes through private complaints. Among the individuals who made use of this mechanism, lawyer **Teerayut Suwankesorn** played a particularly significant procedural role. His petitions did not determine outcomes, but they served as the initial triggers that brought multiple oversight bodies into motion.
+
+### **13.1 Procedural Initiation under Section 49**
+
+Teerayut Suwankesorn submitted the petition that led to the Constitutional Court’s ruling of 31 January 2024. His filing argued that the Move Forward Party’s proposal to amend Section 112 constituted an attempt to undermine the constitutional monarchy under Section 49 of the 2017 Constitution. The Court accepted the petition and issued a ruling that subsequently became a fixed reference point for later institutional actions.
+
+### **13.2 Subsequent Petitions to the Election Commission**
+
+Following the 2024 ruling, Teerayut Suwankesorn, together with Ruangkrai Leekitwattana, requested that the Election Commission initiate proceedings for the dissolution of the Move Forward Party under Section 92 of the Organic Act on Political Parties. The Election Commission adopted the petition and forwarded the case to the Constitutional Court, which dissolved the party on 7 August 2024.
+
+### **13.3 Ethics Complaint to the NACC**
+
+On 2 February 2024, Teerayut Suwankesorn and Sonthiya Sawatdee submitted a complaint to the National Anti‑Corruption Commission (NACC), requesting an investigation into alleged serious ethical violations by the 44 MPs who had co‑sponsored the 2021 bill to amend Section 112. The NACC accepted the complaint, conducted an inquiry, and referred the case to the Supreme Court in early 2026.
+
+### **13.4 Systemic Significance**
+
+From an analytical perspective, these petitions illustrate how private complainants can function as procedural initiators within Thailand’s institutional architecture. The mechanism operates in three steps:
+
+- **Individual initiation:** A private actor files a complaint with an oversight body.  
+- **Institutional adoption:** The complaint is taken up by the relevant institution and transformed into a formal proceeding.  
+- **Propagation:** Once adopted, the case moves through the institutional chain, generating effects independent of the original complainant.
+
+In this configuration, private complainants serve as decentralised inputs into the enforcement system. Their filings do not predetermine outcomes, but they shape the timing, volume, and direction of institutional activity. Teerayut Suwankesorn’s petitions exemplify how this mechanism operated during the consolidation phase: each filing activated a separate institutional process, and together these processes contributed to the broader pattern of legal and political consequences described in this chapter.
+---
+
+
+## **CONCLUSION (revised with complaint‑driven activation)**
 
 Between 2024 and 2026, Section 112 underwent a process of judicial expansion and institutional entrenchment that consolidated the transformation documented in 0012. The Constitutional Court’s 2024 ruling placed Section 112 beyond ordinary democratic deliberation, while criminal enforcement intensified and media coverage fragmented public understanding of these developments.
 
 The broader legal context provided by Sections 107–112 of the Criminal Code situates Section 112 within a national‑security framework traditionally associated with physical threats to the monarchy. This structural positioning helps explain why expressive offences have been interpreted through a security lens and why subsequent judicial doctrine has emphasised insulation rather than contestability.
 
-The contrast between the monarch’s 2005 articulation of criticism as a safeguard and the later judicial doctrine of insulation illustrates the extent to which the constitutional meaning of Section 112 has shifted. The ten‑point declaration issued on 10 August 2020 constituted a historical novelty in Thailand’s political landscape: it was the first publicly articulated, comprehensive reform agenda concerning the monarchy. Its subsequent classification by the Constitutional Court in 2021 as an attempt to overthrow the democratic regime with the King as Head of State transformed the declaration into an interpretive reference point. This doctrinal framing shaped the evaluation of later reform proposals, even when those proposals differed substantially from the original ten points. The interpretive afterlife of the 2020 declaration thus contributed to the heightened sensitivity surrounding Section 112 during the consolidation phase.
+The contrast between the monarch’s 2005 articulation of criticism as a safeguard and the later judicial doctrine of insulation illustrates the extent to which the constitutional meaning of Section 112 has shifted. The ten‑point declaration issued on 10 August 2020 constituted a historical novelty in Thailand’s political landscape: it was the first publicly articulated, comprehensive reform agenda concerning the monarchy. Its subsequent classification by the Constitutional Court in 2021 as an attempt to undermine the constitutional order transformed the declaration into an interpretive reference point that shaped the evaluation of later reform proposals.
+
+A further structural element of the consolidation phase was the role of private complainants in activating institutional processes. The broad standing to initiate Section 112 cases enabled individuals to function as decentralised inputs into the enforcement system. Petitions submitted by private actors—including those filed by lawyer Teerayut Suwankesorn—served as procedural triggers that brought multiple oversight bodies into motion. Once adopted, these complaints propagated through the institutional chain, generating effects independent of the original initiators. This complaint‑driven activation mechanism contributed to the volume, timing, and persistence of Section 112 enforcement during the consolidation phase.
 
 In comparative perspective, many elements of the ten‑point declaration resemble reform trajectories observed in other constitutional monarchies, where adjustments to royal budgets, assets, transparency, and constitutional roles have been undertaken within frameworks of continuity rather than rupture. The divergence between this international pattern and the domestic legal interpretation in Thailand underscores how similar reform proposals can be understood differently depending on constitutional doctrine, institutional history, and the structure of state–society relations.
 
-The 2024–2026 sequence also represents a structural novum: for the first time, a single legislative initiative generated two waves of institutional consequences—first at the party level, then at the level of individual parliamentarians. This dual response aligns with a broader pattern observed in comparative political systems, in which institutions react most intensively to actors with high electoral visibility. The combination of Section 112’s protected status and the electoral strength of the parties associated with its proposed reform produced an institutional configuration without clear precedent.
+The 2024–2026 sequence also represents a structural novum: for the first time, a single legislative initiative generated two waves of institutional consequences—first at the party level, then at the level of individual parliamentarians. This dual response aligns with a broader pattern observed in comparative political systems, in which institutions react most intensively to actors with high electoral visibility. The combination of Section 112’s protected status, the electoral strength of the parties associated with its proposed reform, and the decentralised activation of complaints produced an institutional configuration without clear precedent.
 
 A further consequence of this configuration is the emergence of a self‑limiting public sphere. The visibility of high‑profile cases, the breadth of potential legal exposure, and the interpretive uncertainty surrounding the boundaries of permissible expression contribute to a chilling effect in which individuals increasingly refrain from discussing legally sensitive topics. This development narrows the range of open discourse and reinforces the institutional consolidation described in this chapter.
 
@@ -330,3 +360,4 @@ Finally, the expansion of ethical oversight into the domain of legislative condu
 
 Section 112 remains formally amendable.  
 In practice, the consolidation phase has rendered meaningful reform structurally unattainable within the existing institutional framework.
+
