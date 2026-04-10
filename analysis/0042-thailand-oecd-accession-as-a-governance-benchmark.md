@@ -1,7 +1,7 @@
 ---
 ---
 # **0042 – Structural incompatibilities between OECD accession standards and Thailand’s 2024–2026 institutional escalation**
-### *1. OECD accession as a governance benchmark*
+### *Governance convergence vs. institutional escalation: Constraints on Thailand’s OECD accession trajectory*
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
