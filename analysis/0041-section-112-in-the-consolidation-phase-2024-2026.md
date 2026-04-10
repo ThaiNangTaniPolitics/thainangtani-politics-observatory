@@ -182,6 +182,18 @@ This explanation does not imply any judgment about the legitimacy, proportionali
 
 ---
 
+## **9. Communication Effects: The Emergence of a Self‑Limiting Public Sphere**
+
+A notable secondary effect of the 2024–2026 consolidation phase is the emergence of a self‑limiting public sphere. This phenomenon is well documented in communication studies and is commonly referred to as a *chilling effect*: individuals reduce or avoid public discussion of legally sensitive topics, not necessarily because of direct prohibition, but because of uncertainty regarding the boundaries of permissible expression.
+
+In the Thai context, several structural factors contribute to this dynamic. The combination of a high statutory penalty range, broad standing to initiate complaints, frequent application of Section 112 in digital environments, and the visibility of high‑profile legal cases creates an environment in which individuals may choose to refrain from commenting on the law or its implications. The 2024 party dissolution and the 2026 ethics proceedings reinforce this tendency by demonstrating that legislative engagement with Section 112 can trigger institutional responses at multiple levels.
+
+Such patterns are not unique to Thailand. Comparative research shows similar dynamics in jurisdictions where legal provisions intersect with national security, state symbolism, or historically sensitive institutions. In these contexts, public discourse often narrows even without explicit restrictions, as individuals adopt precautionary communication strategies to avoid potential legal or social consequences.
+
+The resulting effect is a gradual reduction in open discussion, particularly in digital spaces, where visibility is high and interpretive uncertainty is greater. This development does not imply uniform silence, but rather a shift toward selective participation, indirect commentary, or avoidance of specific topics. The emergence of a self‑limiting public sphere is therefore best understood as a structural communication outcome of the broader institutional configuration analysed in this chapter.
+
+---
+
 ## **CONCLUSION**
 
 Between 2024 and 2026, Section 112 underwent a process of judicial expansion and institutional entrenchment that consolidated the transformation documented in 0012. The Constitutional Court’s 2024 ruling placed Section 112 beyond ordinary democratic deliberation, while criminal enforcement intensified and media coverage fragmented the public understanding of these developments.
@@ -189,6 +201,8 @@ Between 2024 and 2026, Section 112 underwent a process of judicial expansion and
 The contrast between the monarch’s 2005 articulation of criticism as a safeguard and the later judicial doctrine of insulation illustrates the extent to which the constitutional meaning of Section 112 has shifted. The international comparison shows that Thailand’s configuration—combining criminal penalties, constitutional interpretation, party dissolution mechanisms, ethics proceedings, and potential political bans—constitutes one of the most far‑reaching monarch‑protection regimes among contemporary constitutional monarchies.
 
 The 2024–2026 sequence also represents a structural novum: for the first time, a single legislative initiative generated two waves of institutional consequences—first at the party level, then at the level of individual parliamentarians. This dual response aligns with a broader pattern observed in comparative political systems, in which institutions react most intensively to actors with high electoral visibility. The combination of Section 112’s protected status and the electoral strength of the parties associated with its proposed reform produced an institutional configuration without clear precedent.
+
+A further consequence of this configuration is the emergence of a self‑limiting public sphere. The visibility of high‑profile cases, the breadth of potential legal exposure, and the interpretive uncertainty surrounding the boundaries of permissible expression contribute to a chilling effect in which individuals increasingly refrain from discussing legally sensitive topics. This development does not imply uniform silence, but it narrows the range of open discourse and reinforces the institutional consolidation described in this chapter.
 
 Section 112 remains formally amendable.  
 In practice, the consolidation phase has rendered meaningful reform structurally unattainable within the existing institutional framework.
