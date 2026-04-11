@@ -172,3 +172,22 @@ Understanding these mechanics allows for more accurate interpretation of politic
 
 ## 8. Notes
 This post describes structural patterns, not individual journalists or political positions.
+
+<p align="center">
+  <a href="../images/0001.png">
+    <img src="../images/0001.png" alt="0001" width="480">
+  </a>
+</p>
+
+<script>
+document.addEventListener("dblclick", e => {
+  if(e.target.tagName === "IMG") {
+    const img = e.target.cloneNode();
+    Object.assign(img.style, {maxWidth:"100vw", maxHeight:"100vh"});
+    const o = Object.assign(document.createElement("div"), {
+      style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
+    });
+    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+  }
+});
+</script>
