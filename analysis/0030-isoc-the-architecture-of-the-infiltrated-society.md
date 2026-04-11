@@ -132,3 +132,22 @@ The architecture described above enables ISOC to:
 
 This is the operational meaning of an “infiltrated society”:  
 **security logic embedded into the social, administrative, and ideological fabric of the state.**
+
+<p align="center">
+  <a href="../images/0030.jpg">
+    <img src="../images/0030.jpg" alt="0030" width="480">
+  </a>
+</p>
+
+<script>
+document.addEventListener("dblclick", e => {
+  if(e.target.tagName === "IMG") {
+    const img = e.target.cloneNode();
+    Object.assign(img.style, {maxWidth:"100vw", maxHeight:"100vh"});
+    const o = Object.assign(document.createElement("div"), {
+      style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
+    });
+    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+  }
+});
+</script>
