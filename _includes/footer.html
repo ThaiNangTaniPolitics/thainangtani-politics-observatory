@@ -1,5 +1,12 @@
 <script>
 document.addEventListener("click", e => {
+
+  // WICHTIG: Link-Öffnen verhindern, wenn ein IMG im <a> steckt
+  if (e.target.tagName === "IMG") {
+    e.preventDefault();
+    e.stopPropagation();
+  }
+
   if (e.target.tagName === "IMG") {
     const img = e.target.cloneNode();
     Object.assign(img.style, {
@@ -49,5 +56,3 @@ document.addEventListener("click", e => {
   }
 });
 </script>
-
-
