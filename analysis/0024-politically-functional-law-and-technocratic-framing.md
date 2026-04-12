@@ -1,4 +1,3 @@
-```markdown
 ## 0024 – System Map: Politically Functional Law & Technocratic Framing
 ### *A structural analysis of legal functionality, reform rhetoric, and symbolic discourse*
 
@@ -134,4 +133,3 @@ document.addEventListener("dblclick", e => {
   }
 });
 </script>
-```
