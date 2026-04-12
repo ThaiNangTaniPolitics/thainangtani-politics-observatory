@@ -1,12 +1,6 @@
 ## 0004 - Bangkok Post: Ownership Structure, Financial Dependencies, and Editorial Patterns
 ### *How economic pressure and ownership shape editorial behavior*
 
-[Home](/thainangtani-politics-observatory/)
-[Analysis](/thainangtani-politics-observatory/analysis/)
-[Timeline](/thainangtani-politics-observatory/timeline/)
-[Methodology](/thainangtani-politics-observatory/methodology/)
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Event Overview
