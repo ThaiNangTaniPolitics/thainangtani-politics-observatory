@@ -11,7 +11,7 @@ The preceding sections document the components of Thailand’s internal security
 
 ---
 
-## **1. The Front‑End: Visible, Technocratic, Institutional**
+## 1. The Front‑End: Visible, Technocratic, Institutional
 
 The Front‑End consists of:
 
@@ -34,7 +34,7 @@ The Front‑End is the **interface** through which Thailand presents itself dome
 
 ---
 
-## **2. The Back‑End: Embedded, Security‑Driven, Persistent**
+## 2. The Back‑End: Embedded, Security‑Driven, Persistent
 
 The Back‑End consists of:
 
@@ -57,11 +57,11 @@ The Back‑End is the **operational core** that shapes the boundaries of politic
 
 ---
 
-## **3. How the Two Layers Interact**
+## 3. How the Two Layers Interact
 
 The Front‑End and Back‑End do not compete; they **co‑produce governance**.
 
-### **3.1 Policy Implementation**
+### *3.1 Policy Implementation*
 Civilian ministries implement policy, but ISOC:
 
 - monitors execution  
@@ -69,14 +69,14 @@ Civilian ministries implement policy, but ISOC:
 - influences local administration  
 - conditions access to resources  
 
-### **3.2 Political Participation**
+### *3.2 Political Participation*
 Elections occur, but:
 
 - ideological conditioning shapes voter behavior  
 - mass organizations monitor local sentiment  
 - security narratives frame political movements  
 
-### **3.3 Crisis Management**
+### *3.3 Crisis Management*
 Civilian institutions respond to crises, but ISOC:
 
 - controls information flows  
@@ -84,7 +84,7 @@ Civilian institutions respond to crises, but ISOC:
 - deploys mass organizations  
 - manages public narratives  
 
-### **3.4 Budget Allocation**
+### *3.4 Budget Allocation*
 Parliament approves budgets, but ISOC:
 
 - controls special security funds  
@@ -95,7 +95,7 @@ The Back‑End ensures that civilian governance remains within a **security‑de
 
 ---
 
-## **4. Why the System Is Stable**
+## 4. Why the System Is Stable
 
 The dual governance system is stable because:
 
@@ -111,7 +111,7 @@ It depends on **infiltration**, not occupation.
 
 ---
 
-## **5. Implications for Reform**
+## 5. Implications for Reform
 
 Reform efforts face structural constraints:
 
@@ -125,7 +125,7 @@ Reform is possible only within the boundaries tolerated by the Back‑End.
 
 ---
 
-## **6. The Kamolsak Leewama Case as Systemic Illustration**
+## 6. The Kamolsak Leewama Case as Systemic Illustration
 
 The 2026 attack on MP Kamolsak Leewama demonstrates:
 
@@ -138,14 +138,14 @@ It is a contemporary example of how the Back‑End intervenes when the Front‑E
 
 ---
 
-## **7. Conclusion: A Single Architecture with Two Faces**
+## 7. Conclusion: A Single Architecture with Two Faces
 
 Thailand’s governance system is best understood as:
 
-### **Front‑End:**  
+### *Front‑End:*  
 visible, legal, technocratic, internationally legible  
 
-### **Back‑End:**  
+### *Back‑End:*  
 embedded, security‑driven, opaque, ideologically anchored  
 
 These two layers form a **single integrated architecture** in which:
