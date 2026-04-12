@@ -1,6 +1,4 @@
----
----
-# **0028 – ISOC Dual Governance in Thailand**  
+## 0028 – ISOC Dual Governance in Thailand
 ### *Front‑End Modernization vs. Back‑End Security State*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -14,46 +12,46 @@ Thailand presents itself as a modern, digitally oriented administrative state al
 This study describes this system as **Dual Governance**:
 
 - **Front‑End:** technocratic modernization, OECD‑style reforms, digital administration  
-- **Back‑End:** military‑dominated security structures, centered on the *Internal Security Operations Command (ISOC)*  
+- **Back‑End:** military‑dominated security structures, centered on the Internal Security Operations Command (ISOC)  
 
 The central premise is:  
 **Any analysis of Thai governance is incomplete without understanding the Back‑End.**
 
 ---
 
-## **Why ISOC Is the “Missing Puzzle Piece”**
+## Why ISOC Is the “Missing Puzzle Piece”
 
-The research of **Puangthong Pawakapan** demonstrates that ISOC is not merely a government agency but the **nerve center of an infiltrated society**. Her work reveals how:
+Research by Puangthong Pawakapan demonstrates that ISOC is not merely a government agency but the **nerve center of an infiltrated society**. Her work highlights how:
 
 - security logic penetrates civilian policy domains  
 - mass organizations are used for social control  
 - budget structures operate outside democratic oversight  
-- and how this architecture functions even without visible military presence  
+- the architecture functions even without visible military presence  
 
 This framework is essential for interpreting contemporary events — including the attack on MP Kamolsak Leewama (2026) — as part of a systemic pattern rather than isolated incidents.
 
 ---
 
-## **Why This Study Is Necessary**
+## Why This Study Is Necessary
 
 Thai politics is often described as oscillating between democracy and military rule.  
 This study argues instead:
 
 - Thailand does not oscillate  
-- Thailand is **structurally dual**  
-- The military has **permanently infiltrated** society, not temporarily seized power  
+- Thailand is structurally dual  
+- the military has permanently infiltrated society, not temporarily seized power  
 
 Visible politics (elections, parliaments, cabinets) operate within a **pre‑defined corridor** set by the security Back‑End.
 
 ---
 
-## **Purpose of This GitHub Series**
+## Purpose of This GitHub Series
 
 This repository documents:
 
 1. the historical development of ISOC  
 2. its legal and institutional architecture  
-3. the mechanisms of societal infiltration  
+3. mechanisms of societal infiltration  
 4. the role of mass organizations  
 5. budget structures and governance risks  
 6. the relationship between the security apparatus and the monarchy  
@@ -61,6 +59,8 @@ This repository documents:
 8. the synthesis: Front‑End / Back‑End as an integrated system  
 
 Each part is modular and can be read independently or as a complete analytical framework.
+
+---
 
 <p align="center">
   <a href="../images/0028.jpg">
@@ -76,7 +76,9 @@ document.addEventListener("dblclick", e => {
     const o = Object.assign(document.createElement("div"), {
       style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img);
+    o.onclick = () => o.remove();
+    document.body.appendChild(o);
   }
 });
 </script>
