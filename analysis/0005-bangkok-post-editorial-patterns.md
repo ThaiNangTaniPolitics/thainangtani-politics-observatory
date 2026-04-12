@@ -19,7 +19,7 @@ These patterns appear across political, economic, and policy coverage.
 
 ## 2. Media Framing Patterns
 
-### a) Stability Framing  
+### *a) Stability Framing*
 Stories emphasise:
 
 - continuity  
@@ -28,7 +28,7 @@ Stories emphasise:
 
 Even when events are uncertain or contradictory.
 
-### b) Responsibility Framing  
+### *b) Responsibility Framing*
 Responsibility is often shifted toward:
 
 - external forces  
@@ -37,7 +37,7 @@ Responsibility is often shifted toward:
 
 Institutional actors are rarely framed as primary drivers of failure.
 
-### c) De‑escalation Framing  
+### *c) De‑escalation Framing*
 Potentially conflict‑heavy stories are softened:
 
 - toned‑down headlines  
@@ -48,21 +48,21 @@ Potentially conflict‑heavy stories are softened:
 
 ## 3. Narrative Shift Over Time
 
-### Phase 1 — Investigative  
+### *Phase 1 — Investigative*
 Older reporting shows:
 
 - broader source diversity  
 - more critical questioning  
 - willingness to challenge official statements
 
-### Phase 2 — Neutralisation  
+### *Phase 2 — Neutralisation*
 Gradual reduction in:
 
 - investigative depth  
 - structural critique  
 - independent sourcing
 
-### Phase 3 — Stabilisation 
+### *Phase 3 — Stabilisation*
 A consistent tone emerges:
 
 - cautious  
@@ -74,7 +74,7 @@ A consistent tone emerges:
 
 ## 4. Editorial Mechanics
 
-### Source Weighting  
+### *Source Weighting*
 Priority is given to:
 
 - official voices  
@@ -83,7 +83,7 @@ Priority is given to:
 
 Independent experts and affected groups appear less frequently.
 
-### Omission  
+### *Omission*
 Structural context is often excluded:
 
 - contradictions  
@@ -91,14 +91,14 @@ Structural context is often excluded:
 - institutional incentives  
 - background conditions
 
-### Headline Softening  
+### *Headline Softening*
 Headlines avoid:
 
 - strong causal claims  
 - explicit conflict  
 - direct attribution of responsibility
 
-### Chronological Compression  
+### *Chronological Compression*
 Complex sequences are presented as:
 
 - linear  
@@ -107,14 +107,14 @@ Complex sequences are presented as:
 
 This masks internal contradictions.
 
-### De‑emphasis  
+### *De‑emphasis*
 Elements that challenge the preferred narrative are:
 
 - minimised  
 - placed low in the article  
 - framed as exceptions
 
-### Wire‑Service Dependence  
+### *Wire‑Service Dependence*
 To reduce cost:
 
 - many articles rely on agencies  
