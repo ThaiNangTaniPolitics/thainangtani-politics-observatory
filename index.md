@@ -19,4 +19,3 @@ The goal is not advocacy, but **structured observation**.
 
 **Case Study · Discourse Analysis · Narrative Comparison · Structural Analysis**  
 0043 – Control and Fear Inside the Clergy in Thailand
-
