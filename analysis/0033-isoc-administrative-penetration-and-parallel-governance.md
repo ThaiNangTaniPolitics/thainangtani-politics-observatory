@@ -1,12 +1,6 @@
 ## 0033 – Administrative Penetration and Parallel Governance
 ### *How ISOC Embeds Itself Inside Civilian Administration*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 Administrative penetration is a defining feature of Thailand’s dual governance system. ISOC operates not as an external security agency but as a **parallel administrative hierarchy** embedded within civilian ministries, provincial structures, and local governance. This allows the security apparatus to influence policy implementation, resource allocation, and local decision‑making without formal political authority.
 
 ---
