@@ -1,4 +1,4 @@
-## 0043 – Control and Fear Inside the Clergy
+## 0043 – Control and Fear Inside the Clergy in Thailand
 ### *Case Study · Discourse Analysis · Narrative Comparison · Structural Analysis*
 
 [Home](/thainangtani-politics-observatory/)
