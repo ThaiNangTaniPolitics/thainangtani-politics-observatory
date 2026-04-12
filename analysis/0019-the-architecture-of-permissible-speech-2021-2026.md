@@ -1,12 +1,6 @@
 ## 0019 – Discursive Filtering: The Architecture of Permissible Speech (2021–2026)  
 ### *How comment moderation functions as an extension of constitutional mechanics*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Introduction: The Missing Half of the Public Sphere  
