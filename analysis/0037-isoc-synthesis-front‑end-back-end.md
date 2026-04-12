@@ -1,4 +1,4 @@
-# **0037 – Synthesis: Front‑End / Back‑End as an Integrated System**
+## 0037 – Synthesis: Front‑End / Back‑End as an Integrated System
 ### *How Thailand’s Dual Governance System Functions as a Single Architecture*
 
 [Home](/thainangtani-politics-observatory/)  
