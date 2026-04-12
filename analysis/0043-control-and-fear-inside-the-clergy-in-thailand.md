@@ -1,12 +1,6 @@
 ## 0043 – Control and Fear Inside the Clergy in Thailand
 ### *Case Study · Discourse Analysis · Narrative Comparison · Structural Analysis*
 
-[Home](/thainangtani-politics-observatory/)
-[Analysis](/thainangtani-politics-observatory/analysis/)
-[Timeline](/thainangtani-politics-observatory/timeline/)
-[Methodology](/thainangtani-politics-observatory/methodology/)
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Case Overview (Case Study)
