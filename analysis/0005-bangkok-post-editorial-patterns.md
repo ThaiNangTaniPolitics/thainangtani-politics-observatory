@@ -1,12 +1,6 @@
 ## 0005 - **Bangkok Post: Editorial Patterns and Narrative Behavior**  
 ### *How the newspaper constructs, softens, and sequences political communication*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Event Overview
