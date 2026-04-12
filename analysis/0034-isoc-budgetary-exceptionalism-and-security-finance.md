@@ -1,7 +1,4 @@
-
----
----
-# **0034 – Budgetary Exceptionalism and Security Finance**
+## 0034 – Budgetary Exceptionalism and Security Finance
 ### *How ISOC Operates Through Opaque, Extra‑Administrative Budget Structures*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -14,20 +11,20 @@ Budgetary exceptionalism is a defining feature of ISOC’s institutional power. 
 
 ---
 
-## **1. Special Security Budgets Outside Normal Administrative Logic**
+## 1. Special Security Budgets Outside Normal Administrative Logic
 
-Multiple research studies (Deep South Watch, Chulalongkorn University, Thammasat University, international organizations) identify a recurring pattern:
+Multiple research studies identify a recurring pattern:
 
-- security budgets are allocated through special channels  
-- spending categories are classified or vaguely defined  
-- reporting requirements are minimal  
-- oversight mechanisms are weak or absent  
+- security budgets allocated through special channels  
+- classified or vaguely defined spending categories  
+- minimal reporting requirements  
+- weak or absent oversight mechanisms  
 
 These budgets are structurally insulated from civilian scrutiny.
 
 ---
 
-## **2. The Deep South as a Permanent Budget Engine**
+## 2. The Deep South as a Permanent Budget Engine
 
 The conflict in the Deep South generates:
 
@@ -36,11 +33,11 @@ The conflict in the Deep South generates:
 - discretionary funds  
 - classified operational spending  
 
-These funds operate **outside normal administrative logic**, creating a long‑term financial justification for ISOC’s expanded role. The conflict functions as a **permanent budget engine**, sustaining ISOC’s institutional autonomy.
+These funds operate outside normal administrative logic, creating a long‑term financial justification for ISOC’s expanded role. The conflict functions as a **permanent budget engine**, sustaining ISOC’s institutional autonomy.
 
 ---
 
-## **3. Discretionary and Classified Spending**
+## 3. Discretionary and Classified Spending
 
 ISOC’s financial architecture includes:
 
@@ -61,7 +58,7 @@ The opacity of these funds reinforces ISOC’s operational flexibility.
 
 ---
 
-## **4. Budgetary Leverage Over Civilian Administration**
+## 4. Budgetary Leverage Over Civilian Administration
 
 ISOC uses its financial autonomy to influence civilian governance by:
 
@@ -74,7 +71,7 @@ This creates dependency relationships between local administrations and ISOC, em
 
 ---
 
-## **5. Fragmented Oversight and Legal Exceptionalism**
+## 5. Fragmented Oversight and Legal Exceptionalism
 
 Budget oversight is weakened by:
 
@@ -88,17 +85,19 @@ This fragmentation prevents comprehensive auditing and enables long‑term insti
 
 ---
 
-## **6. The Function of Budgetary Exceptionalism in Dual Governance**
+## 6. The Function of Budgetary Exceptionalism in Dual Governance
 
 Budgetary exceptionalism ensures that ISOC:
 
 - remains financially autonomous  
-- can operate independently of electoral cycles  
+- operates independently of electoral cycles  
 - maintains influence over civilian administration  
 - sustains mass organizations and ideological programs  
 - preserves its role as the Back‑End of dual governance  
 
-Financial opacity is not a byproduct — it is a **structural feature** that enables ISOC to function as a parallel governance system.
+Financial opacity is not a byproduct — it is a structural feature that enables ISOC to function as a parallel governance system.
+
+---
 
 <p align="center">
   <a href="../images/0034.jpg">
@@ -108,14 +107,15 @@ Financial opacity is not a byproduct — it is a **structural feature** that ena
 
 <script>
 document.addEventListener("dblclick", e => {
-  if(e.target.tagName === "IMG") {
+  if (e.target.tagName === "IMG") {
     const img = e.target.cloneNode();
-    Object.assign(img.style, {maxWidth:"100vw", maxHeight:"100vh"});
+    Object.assign(img.style, { maxWidth:"100vw", maxHeight:"100vh" });
     const o = Object.assign(document.createElement("div"), {
       style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img);
+    o.onclick = () => o.remove();
+    document.body.appendChild(o);
   }
 });
 </script>
-
