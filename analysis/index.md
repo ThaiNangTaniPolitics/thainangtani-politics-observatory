@@ -1,8 +1,8 @@
 ## Analysis
 
----
-
 This section contains analytical case studies and narrative investigations.
+
+---
 
 - [0043 – Control and Fear Inside the Clergy in Thailand](0043-control-and-fear-inside-the-clergy-in-thailand.md)
 - [0042 – OECD standards and Thailand’s 2024–2026 institutional escalation](0042-thailand-oecd-structural-incompatibilities.md)
