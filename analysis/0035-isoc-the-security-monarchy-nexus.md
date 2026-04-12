@@ -126,7 +126,7 @@ The security–monarchy nexus functions as:
 This nexus ensures that the Back‑End remains intact regardless of electoral outcomes or civilian policy agendas.
 
 <p align="center">
-  <a href="../images/0035jpg">
+  <a href="../images/0035.jpg">
     <img src="../images/0035.jpg" alt="0035" width="480">
   </a>
 </p>
