@@ -1,11 +1,7 @@
 ## 0009 – Visa Narrative Paradox: Thailand as “Safe Haven” vs. “Infiltration”
 ### *How media framing transforms a tourism policy reversal into a security narrative*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
+---
 
 ## 1. Event Overview
 Between 2024 and early 2026, Thailand’s visa‑free policy underwent a dramatic reversal:
