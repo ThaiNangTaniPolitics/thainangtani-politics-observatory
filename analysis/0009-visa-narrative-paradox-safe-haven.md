@@ -36,7 +36,7 @@ Structural causes — weak enforcement, corruption, fragmented border systems �
 
 ## 3. Media Framing
 
-### a) Causal Shift: From Government Failure to “Unworthy Visitors”
+### *a) Causal Shift: From Government Failure to “Unworthy Visitors”*
 In the Bangkok Post (Kavi Chongkittavorn), responsibility for the failure of the 60‑day policy is shifted:
 
 - **away from the government** that designed and promoted the policy  
@@ -46,7 +46,7 @@ Administrative shortcomings (corruption, lack of enforcement capacity, porous bo
 
 ---
 
-### b) Nationalization of Risk
+### *b) Nationalization of Risk*
 Certain nationalities are framed as:
 
 - security threats  
@@ -63,15 +63,15 @@ This framing legitimizes the restrictive policy reversal.
 
 ---
 
-### c) The Paradox: Safe Haven vs. Infiltration
+### *c) The Paradox: Safe Haven vs. Infiltration*
 The media construct a contradictory dual narrative:
 
-### Thailand as a Safe Haven
+**Thailand as a Safe Haven**
 - A refuge for people fleeing conflict  
 - Stable, neutral, welcoming  
 - Attractive for long-term stays  
 
-### Thailand as a Threatened Territory
+**Thailand as a Threatened Territory**
 - “Overrunning” of local communities  
 - Real estate inflation caused by foreigners  
 - “Illegal settlement”  
@@ -83,17 +83,17 @@ This paradox allows a purely administrative decision (visa reduction) to be refr
 
 ## 4. Narrative Shift
 
-### Phase 1 — Economic Optimism (2024)
+### *Phase 1 — Economic Optimism (2024)*
 - 60‑day rule celebrated as a “game changer”  
 - Focus on tourism recovery  
 - Open borders as competitive advantage  
 
-### Phase 2 — Geopolitical Overlay (2025)
+### *Phase 2 — Geopolitical Overlay (2025)*
 - Middle East conflict  
 - Russia–Ukraine  
 - Thailand framed as a neutral refuge  
 
-### Phase 3 — Security Paranoia (March 2026)
+### *Phase 3 — Security Paranoia (March 2026)*
 - “suspicious foreigners”  
 - “grey economy”  
 - “quality tourism”  
@@ -115,7 +115,7 @@ This proposal represents the **most expansive visa‑liberalization narrative** 
 
 ## A) Narrative Characteristics
 
-### 1. Regional Mobility as Economic Strategy
+### *1. Regional Mobility as Economic Strategy*
 The joint visa is framed as:
 
 - a “Schengen‑type” mobility zone  
@@ -125,7 +125,7 @@ The joint visa is framed as:
 
 The narrative emphasizes **regional integration**, not national restriction.
 
-### 2. Tourism as Economic Stabilizer
+### *2. Tourism as Economic Stabilizer*
 Media highlight that:
 
 - tourism accounts for ~20% of jobs  
@@ -138,28 +138,28 @@ Visa liberalization is framed as a **macro‑economic buffer**.
 
 ## B) Actor Landscape (as reported)
 
-### Government (2024)
+### *Government (2024)*
 - Promotes the joint visa as a long‑term strategic project  
 - Pursues bilateral visa waivers (China, India, Taiwan, Kazakhstan)  
 - Frames tourism as a pillar of economic modernization
 
-### Tourism Industry
+### *Tourism Industry*
 - Strongly supportive  
 - Calls for extended visa validity (up to 90 days)  
 - Frames the joint visa as a competitive advantage for long‑haul markets
 
-### Experts Quoted in Media
+### *Experts Quoted in Media*
 - Highlight ASEAN’s difficulty with multilateral frameworks  
 - Suggest bilateral agreements may be more realistic  
 - Note administrative and immigration‑criteria challenges
 
 ---
 
-### C) Narrative Function
+### *C) Narrative Function*
 
 The 2024 joint‑visa initiative introduces a **third narrative**, distinct from both “Safe Haven” and “Infiltration”:
 
-### Narrative 3 — *Regional Integration and Mobility*
+### *Narrative 3 — *Regional Integration and Mobility**
 - Thailand as a regional hub  
 - Seamless travel across mainland Southeast Asia  
 - Visa policy as a tool of **economic diplomacy**  
@@ -169,7 +169,7 @@ This narrative is **expansive**, **optimistic**, and **forward‑looking**, cont
 
 ---
 
-### D) How 2024 Fits into the Visa Narrative Pendulum
+### *D) How 2024 Fits into the Visa Narrative Pendulum*
 
 The 2024 joint‑visa initiative fills a missing conceptual gap in the pendulum model:
 
@@ -187,7 +187,7 @@ It is the **high‑water mark** of visa openness before the narrative begins to 
 
 ---
 
-### E) Why This Matters for 0009
+### *E) Why This Matters for 0009*
 
 The 2024 joint‑visa initiative:
 
@@ -203,7 +203,7 @@ It also demonstrates that visa policy is not only a domestic symbolic tool, but 
 
 ## 6. Editorial Mechanics
 
-### a) Source Weighting
+### *a) Source Weighting*
 The Bangkok Post relies heavily on:
 
 - veteran columnists  
@@ -214,7 +214,7 @@ These voices reinforce the security framing.
 
 ---
 
-### b) Omission
+### *b) Omission*
 Almost entirely absent:
 
 - the fact that the 60‑day rule was introduced with great pride in 2024  
@@ -225,7 +225,7 @@ The narrative shifts blame **from policy design → to visitors**.
 
 ---
 
-### c) Chronological Compression
+### *c) Chronological Compression*
 Complex dynamics — geopolitics, migration, tourism, enforcement failures — are compressed into a **single coherent storyline**:
 
 > “The 60‑day rule caused security problems.”
@@ -274,7 +274,7 @@ This analysis focuses on narrative and editorial mechanics, not on policy evalua
 Media coverage in early 2025 reveals that the visa debate expanded beyond government and press.  
 A **multi‑actor narrative collision** emerged, with different sectors promoting conflicting frames.
 
-### A) Government (2025)
+### *A) Government (2025)*
 Public messaging emphasized:
 
 - visa facilitation  
@@ -283,7 +283,7 @@ Public messaging emphasized:
 - “world‑class tourism destination”  
 - improved visa procedures and expanded visa exemptions
 
-### B) Tourism Businesses (Hotels, Operators)
+### *B) Tourism Businesses (Hotels, Operators)*
 Media reported demands to:
 
 - shorten visa‑free stays for Chinese tourists (60 → 15 days)  
@@ -292,7 +292,7 @@ Media reported demands to:
   - scam networks  
   - safety concerns
 
-### C) Tourism Council of Thailand (TCT)
+### *C) Tourism Council of Thailand (TCT)*
 Framing focused on:
 
 - transnational crime  
@@ -300,14 +300,14 @@ Framing focused on:
 - fraud  
 - calls for “Chinese‑friendly” safety standards
 
-### D) Tourism Authority of Thailand (TAT)
+### *D) Tourism Authority of Thailand (TAT)*
 TAT publicly disagreed with abolishing visa‑free entry:
 
 - emphasized economic benefits  
 - noted average Chinese stays of 7–10 days  
 - warned against harming tourism flows
 
-### Result: Narrative Collision
+### *Result: Narrative Collision*
 2025 becomes a year where **multiple narratives coexist and contradict each other**:
 
 - **Openness** (government)  
@@ -324,18 +324,18 @@ A new pattern emerges in 2025:
 
 > **Economic interests are communicated through security narratives.**
 
-### Examples from media reports:
+### *Examples from media reports:*
 - Hotels cite “safety concerns” to explain booking cancellations  
 - Tourism operators justify shorter stays with “illegal work” fears  
 - TCT links visa policy to “transnational crime” and “scams”
 
-### Mechanism: Economic → Security
+### *Mechanism: Economic → Security*
 Instead of openly discussing market incentives (e.g., short‑stay tourists prefer hotels),  
 actors frame their demands as **security issues**.
 
 This mirrors state securitization but originates from **private‑sector motivations**.
 
-### Why this matters
+### *Why this matters*
 0009 originally described **state‑driven** security narratives.  
 2025 introduces **industry‑driven** security narratives, expanding the paradox.
 
@@ -344,22 +344,22 @@ This mirrors state securitization but originates from **private‑sector motivat
 ## 12. Visa Policy as Pendulum (2022–2026)
 Across four years of media reporting, visa policy behaves like a **communication pendulum**:
 
-### Phase 1 — Opening (2022)
+### *Phase 1 — Opening (2022)*
 Visa extensions framed as economic recovery.
 
-### Phase 2 — Selective Opening (2023)
+### *Phase 2 — Selective Opening (2023)*
 Visa‑free entry for specific markets to stimulate tourism.
 
-### Phase 3 — Modernization (2025)
+### *Phase 3 — Modernization (2025)*
 Visa facilitation as part of global competitiveness.
 
-### Phase 4 — Restriction (2025, private‑sector demands)
+### *Phase 4 — Restriction (2025, private‑sector demands)*
 Calls for shorter stays framed as security concerns.
 
-### Phase 5 — Securitization (2026)
+### *Phase 5 — Securitization (2026)*
 Government reduces visa‑free stays from 60 → 30 days.
 
-#### The Pendulum
+### *The Pendulum*
 > **Opening → Selective Opening → Modernization → Restriction → Security**
 
 This is a **narrative cycle**, not a policy cycle.  
