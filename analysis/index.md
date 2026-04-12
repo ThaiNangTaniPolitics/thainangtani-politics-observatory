@@ -12,6 +12,7 @@ This section contains analytical case studies and narrative investigations.
 
 ## Available Analyses
 
+- [0043 – Control and Fear Inside the Clergy in Thailand](0043-control-and-fear-inside-the-clergy-in-thailand.md)
 - [0042 – OECD standards and Thailand’s 2024–2026 institutional escalation](0042-thailand-oecd-structural-incompatibilities.md)
 - [0041 – Section 112 in the Consolidation Phase (2024–2026)](0041-section-112-in-the-consolidation-phase-2024-2026.md)
 - [0040 – Analytical note on the 2026 policy statement of the Council of Ministers](0040-analytical-note-on-the-2026-policy-statement-of-the-council-of-ministers.md)
