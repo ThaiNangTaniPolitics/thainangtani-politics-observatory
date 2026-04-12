@@ -348,6 +348,12 @@ Coverage by other media outlets, such as the Thai Enquirer, presented the policy
   </a>
 </p>
 
+<p align="center">
+  <a href="../images/0040_2.png">
+    <img src="../images/0040_2.png" alt="0040_2" width="480">
+  </a>
+</p>
+
 <script>
 document.addEventListener("dblclick", e => {
   if(e.target.tagName === "IMG") {
