@@ -5,5 +5,8 @@ theme: minima
 # Force rebuild
 force_rebuild: 59
 
+include:
+  - images
+
 # Disable minima's default collections/static overrides
 collections: {}
