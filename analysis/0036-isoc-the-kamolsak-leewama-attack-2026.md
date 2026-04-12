@@ -5,7 +5,7 @@ The attack on MP **Kamolsak Leewama** in March 2026 illustrates how Thailand’s
 
 ---
 
-## **1. Contextual Background**
+## 1. Contextual Background
 
 Kamolsak Leewama was:
 
@@ -18,7 +18,7 @@ His political profile placed him at the intersection of civilian reform efforts 
 
 ---
 
-## **2. Operational Characteristics of the Attack**
+## 2. Operational Characteristics of the Attack
 
 Media reports suggested that certain features of the attack resembled coordinated operational patterns:
 
@@ -32,7 +32,7 @@ These characteristics mirror patterns observed in prior cases where political ac
 
 ---
 
-## **3. Use of State‑Adjacent Resources**
+## 3. Use of State‑Adjacent Resources
 
 Available information indicates the involvement of:
 
@@ -45,7 +45,7 @@ Some reports and commentary suggested that certain elements of the incident rese
 
 ---
 
-## **4. Narrative Management and Information Control**
+## 4. Narrative Management and Information Control
 
 Following the attack, information flows were shaped by:
 
@@ -59,7 +59,7 @@ Media reports suggested that local reporting was only partially possible during 
 
 ---
 
-## **5. Governance Implications**
+## 5. Governance Implications
 
 The attack demonstrates several systemic dynamics:
 
@@ -72,7 +72,7 @@ These dynamics reinforce the dual governance model documented in earlier section
 
 ---
 
-## **6. Analytical Significance for This Study**
+## 6. Analytical Significance for This Study
 
 The Kamolsak case is not an anomaly; it is a **contemporary manifestation** of:
 
@@ -86,7 +86,7 @@ It demonstrates how the Back‑End intervenes when the Front‑End threatens to 
 
 ---
 
-## **7. Why This Case Matters**
+## 7. Why This Case Matters
 
 The attack illustrates:
 
