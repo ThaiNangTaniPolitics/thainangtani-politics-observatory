@@ -1,13 +1,8 @@
 <script>
 document.addEventListener("click", e => {
-
-  // WICHTIG: Link-Öffnen verhindern, wenn ein IMG im <a> steckt
   if (e.target.tagName === "IMG") {
     e.preventDefault();
     e.stopPropagation();
-  }
-
-  if (e.target.tagName === "IMG") {
     const img = e.target.cloneNode();
     Object.assign(img.style, {
       maxWidth: "95vw",
@@ -16,7 +11,6 @@ document.addEventListener("click", e => {
       boxShadow: "0 0 20px #0008",
       transition: "transform 0.25s ease"
     });
-
     const overlay = Object.assign(document.createElement("div"), {
       style: `
         position: fixed;
@@ -31,20 +25,13 @@ document.addEventListener("click", e => {
         transition: opacity 0.25s ease;
       `
     });
-
     overlay.appendChild(img);
     document.body.appendChild(overlay);
-
-    // Fade-in
     requestAnimationFrame(() => overlay.style.opacity = "1");
-
-    // Close on click
     overlay.onclick = () => {
       overlay.style.opacity = "0";
       setTimeout(() => overlay.remove(), 200);
     };
-
-    // Close on ESC
     const escHandler = ev => {
       if (ev.key === "Escape") {
         overlay.style.opacity = "0";
