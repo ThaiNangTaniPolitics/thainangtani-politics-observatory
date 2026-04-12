@@ -1,45 +1,61 @@
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-                 Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-    font-size: 18px;
-    line-height: 1.7;
-    color: #111;
-    background: #fff;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
 
-  .page-container {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 30px 20px;
-  }
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+                   Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      font-size: 18px;
+      line-height: 1.7;
+      color: #111;
+      background: #fff;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
 
-  h1, h2, h3, h4 {
-    font-weight: 600;
-    margin-top: 2em;
-    margin-bottom: 0.6em;
-  }
+    .page-container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 30px 20px;
+    }
 
-  p {
-    margin-bottom: 1.2em;
-  }
+    h1, h2, h3, h4 {
+      font-weight: 600;
+      margin-top: 2em;
+      margin-bottom: 0.6em;
+    }
 
-  img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 4px;
-  }
+    p {
+      margin-bottom: 1.2em;
+    }
 
-  a {
-    color: #0066cc;
-    text-decoration: none;
-  }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 4px;
+    }
 
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page-container">
+    {{ content }}
+  </div>
+
+  {% include footer.html %}
+</body>
+</html>
