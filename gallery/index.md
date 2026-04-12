@@ -1,9 +1,9 @@
+<p><a href="/thainangtani-politics-observatory/">← Back to Home</a></p>
+
 ---
 layout: default
 title: Image Gallery
 ---
-
-<p><a href="/thainangtani-politics-observatory/">← Back to Home</a></p>
 
 # Image Gallery
 
