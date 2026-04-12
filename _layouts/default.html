@@ -1,22 +1,37 @@
-<style>
-  body {
-    margin: 0;
-    padding: 0;
-    background: #fff;
-    color: #111;
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
 
-  .page-container {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 30px 20px;
-  }
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      color: #111;
+    }
 
-  img {
-  width: auto;         
-  max-width: 100%;
-  height: auto;
-  border-radius: 4px;
-}
+    .page-container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 30px 20px;
+    }
 
-</style>
+    img {
+      width: auto;
+      max-width: 100%;
+      height: auto;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page-container">
+    {{ content }}
+  </div>
+
+  {% include footer.html %}
+</body>
+</html>
