@@ -1,77 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #111;
+  }
 
-  <style>
-    body {
-      margin: 0;
-      padding: 0;      
-      font-size: 18px;
-      line-height: 1.7;
-      color: #111;
-      background: #fff;
-      -webkit-font-smoothing: antialiased;
-      -moz-osx-font-smoothing: grayscale;
-    }
+  .page-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px 20px;
+  }
 
-    .page-container {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 30px 20px;
-    }
-
-    h1, h2, h3, h4 {
-      font-weight: 600;
-      margin-top: 2em;
-      margin-bottom: 0.6em;
-    }
-
-    p {
-      margin-bottom: 1.2em;
-    }
-
-    img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 4px;
-    }
-
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-
-<body>
-  <div class="page-container">
-
-    {% capture rendered %}
-      {{ content }}
-    {% endcapture %}
-
-    {% assign updated = rendered %}
-
-    {% for file in site.static_files %}
-      {% if file.path contains 'images/' %}
-        {% assign original = file.path %}
-        {% assign webp = original | replace: '.jpg', '.webp' | replace: '.png', '.webp' %}
-        {% if site.static_files | where: "path", webp | size > 0 %}
-          {% assign updated = updated | replace: original, webp %}
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    {{ updated }}
-
-  </div>
-
-  {% include footer.html %}
-</body>
-</html>
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+</style>
