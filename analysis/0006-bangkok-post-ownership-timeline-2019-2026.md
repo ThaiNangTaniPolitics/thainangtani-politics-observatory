@@ -1,12 +1,6 @@
 ## 0006 - Bangkok Post: Ownership Timeline (2019–2026)
 ### *From dispersed shareholders → to single‑patron control (>70%)*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 2019–2022 — Fragmented Ownership
