@@ -128,7 +128,7 @@ This is the operational core of parallel governance:
 **a security apparatus embedded inside civilian administration, steering the state from within.**
 
 <p align="center">
-  <a href="../images/0033jpg">
+  <a href="../images/0033.jpg">
     <img src="../images/0033.jpg" alt="0033" width="480">
   </a>
 </p>
