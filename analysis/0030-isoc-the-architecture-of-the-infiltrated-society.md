@@ -1,6 +1,4 @@
----
----
-# **0030 – The Architecture of the Infiltrated Society**  
+## 0030 – The Architecture of the Infiltrated Society
 ### *ISOC as the Nerve Center of Thailand’s Internal Security State*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -13,7 +11,7 @@ Puangthong Pawakapan’s research identifies the Internal Security Operations Co
 
 ---
 
-## **1. Civilian–Police–Military Integration (CPM Model)**
+## 1. Civilian–Police–Military Integration (CPM Model)
 
 The CPM model, originally developed for counter‑communist operations, remains the foundational logic of ISOC’s structure. It integrates:
 
@@ -31,7 +29,7 @@ The CPM model is the mechanism through which ISOC penetrates civilian governance
 
 ---
 
-## **2. Security‑Driven Development (Yutthaphatthana)**
+## 2. Security‑Driven Development (Yutthaphatthana)
 
 ISOC’s doctrine frames development as a security tool. Under this logic:
 
@@ -47,13 +45,13 @@ This doctrine legitimizes military involvement in civilian sectors and creates l
 
 ---
 
-## **3. Mass Organizations as Social Control Infrastructure**
+## 3. Mass Organizations as Social Control Infrastructure
 
 The architecture of infiltration relies on mass organizations that function as extensions of ISOC within society. Key groups include:
 
-- **Village Scouts**  
-- **Thai National Defence Volunteers (TNDV)**  
-- **007 intelligence networks**  
+- Village Scouts  
+- Thai National Defence Volunteers (TNDV)  
+- 007 intelligence networks  
 
 These organizations serve as:
 
@@ -62,11 +60,11 @@ These organizations serve as:
 - mobilization channels  
 - intermediaries between the military and communities  
 
-Their scale — numbering in the millions — embeds ISOC into everyday social life.
+Their scale embeds ISOC into everyday social life.
 
 ---
 
-## **4. Ideological Conditioning and Identity Production**
+## 4. Ideological Conditioning and Identity Production
 
 ISOC conducts systematic ideological programs aimed at shaping political identity. These include:
 
@@ -74,7 +72,7 @@ ISOC conducts systematic ideological programs aimed at shaping political identit
 - loyalty training  
 - national security curricula  
 - media messaging  
-- psychological operations (IO)
+- psychological operations (IO)  
 
 The objective is to normalize the idea that:
 
@@ -86,7 +84,7 @@ This ideological layer ensures that security logic is internalized by segments o
 
 ---
 
-## **5. Administrative Penetration Through Civilian Ministries**
+## 5. Administrative Penetration Through Civilian Ministries
 
 ISOC’s authority extends into civilian ministries, including:
 
@@ -102,11 +100,11 @@ ISOC can:
 - assign tasks to civilian officials  
 - override local decision‑making  
 
-This creates a **parallel administrative hierarchy** that operates beneath the formal bureaucracy.
+This creates a parallel administrative hierarchy that operates beneath the formal bureaucracy.
 
 ---
 
-## **6. Budgetary Autonomy and Exceptionalism**
+## 6. Budgetary Autonomy and Exceptionalism
 
 ISOC’s architecture is reinforced by budget structures that:
 
@@ -119,7 +117,7 @@ The Deep South conflict is a central driver of these exceptional budget lines, w
 
 ---
 
-## **7. The Systemic Function of Infiltration**
+## 7. The Systemic Function of Infiltration
 
 The architecture described above enables ISOC to:
 
@@ -132,6 +130,8 @@ The architecture described above enables ISOC to:
 
 This is the operational meaning of an “infiltrated society”:  
 **security logic embedded into the social, administrative, and ideological fabric of the state.**
+
+---
 
 <p align="center">
   <a href="../images/0030.jpg">
@@ -147,7 +147,9 @@ document.addEventListener("dblclick", e => {
     const o = Object.assign(document.createElement("div"), {
       style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img); 
+    o.onclick = () => o.remove(); 
+    document.body.appendChild(o);
   }
 });
 </script>
