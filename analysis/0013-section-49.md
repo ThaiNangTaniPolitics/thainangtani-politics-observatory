@@ -9,7 +9,7 @@
 
 ---
 
- *Section 49*
+ **Section 49**
  
   *No person shall exercise the rights or liberties to overthrow the democratic regime of government with the King as Head of State.
    Any person who has knowledge of an act under paragraph one shall have the right to petition to the Attorney-General to request the 
