@@ -1,12 +1,6 @@
 ## 0038 – Bangkok Post: Technical Architecture Report (2024–2026)
 ### *A factual analysis of browser manipulation, tracking systems, ad‑tech integrations, and code‑level mechanisms*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 0. Forensic Framing: Autopsy of a Financially Collapsed System
