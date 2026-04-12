@@ -1,11 +1,5 @@
-# **0036 – Case Study: The Kamolsak Leewama Attack (2026)**  
+## 0036 – Case Study: The Kamolsak Leewama Attack (2026)
 ### *A Contemporary Example of Back‑End Security Operations*
-
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
 
 The attack on MP **Kamolsak Leewama** in March 2026 illustrates how Thailand’s internal security architecture responds when political developments threaten established power structures. While the incident is formally treated as a criminal act, its operational characteristics align with patterns documented in the historical evolution of ISOC and the broader security apparatus.
 
