@@ -26,22 +26,22 @@ This pattern mirrors previous cycles in immigration and tourism communication.
 ## 3. Media Framing
 Thai outlets applied several recurring frames:
 
-### a) Responsibility Framing
+### *a) Responsibility Framing*
 Responsibility shifted toward:
 - “foreigners misunderstanding the rules”
 - “online rumors”
 - “travel agents causing confusion”
 
-### b) Economic Framing
+### *b) Economic Framing*
 Focus on:
 - tourism recovery  
 - revenue expectations  
 - balancing security with economic needs
 
-### c) Stability Framing
+### *c) Stability Framing*
 Presenting the situation as “under control,” even when details were unclear.
 
-### d) Human‑Interest Framing
+### *d) Human‑Interest Framing*
 Selective individual stories used to illustrate “misunderstandings.”
 
 ## 4. Narrative Shift
