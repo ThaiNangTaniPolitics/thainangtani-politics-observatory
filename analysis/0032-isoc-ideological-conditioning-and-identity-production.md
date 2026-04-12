@@ -98,8 +98,8 @@ Ideological conditioning serves several systemic purposes:
 Through these mechanisms, ISOC embeds itself not only in institutions but in the political identity of segments of the population.
 
 <p align="center">
-  <a href="../images/0032jpg">
-    <img src="../images/0032.jpg" alt="0032" width="480">
+  <a href="../images/0032_3jpg">
+    <img src="../images/0032_3.jpg" alt="0032_3" width="480">
   </a>
 </p>
 
