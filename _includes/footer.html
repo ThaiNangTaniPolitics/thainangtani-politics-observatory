@@ -1,41 +1,59 @@
 <script>
 document.addEventListener("click", e => {
-  if (e.target.tagName === "IMG") {
+  // Wir prüfen, ob auf ein Bild geklickt wurde, das NICHT im Footer selbst liegt
+  if (e.target.tagName === "IMG" && !e.target.closest("footer")) {
     e.preventDefault();
     e.stopPropagation();
-    const img = e.target.cloneNode();
-    Object.assign(img.style, {
+
+    // Erstelle ein komplett frisches Bild-Objekt ohne CSS-Altlasten
+    const zoomedImg = new Image();
+    zoomedImg.src = e.target.src;
+    
+    // Hard-Styles für das Bild im Zoom
+    Object.assign(zoomedImg.style, {
       maxWidth: "95vw",
       maxHeight: "95vh",
+      objectFit: "contain",
       borderRadius: "6px",
-      boxShadow: "0 0 20px #0008",
-      transition: "transform 0.25s ease"
+      boxShadow: "0 0 30px rgba(0,0,0,0.7)",
+      transition: "transform 0.25s ease",
+      margin: "0" // Expliziter Reset gegen die Layout-Margins
     });
+
+    // Das Overlay-Container
     const overlay = Object.assign(document.createElement("div"), {
       style: `
         position: fixed;
-        inset: 0;
-        background: rgba(0,0,0,0.85);
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: rgba(0,0,0,0.9);
         display: flex;
         align-items: center;
         justify-content: center;
         cursor: zoom-out;
-        z-index: 9999;
+        z-index: 10000;
         opacity: 0;
-        transition: opacity 0.25s ease;
+        transition: opacity 0.2s ease;
       `
     });
-    overlay.appendChild(img);
+
+    overlay.appendChild(zoomedImg);
     document.body.appendChild(overlay);
+
+    // Animation starten
     requestAnimationFrame(() => overlay.style.opacity = "1");
-    overlay.onclick = () => {
+
+    // Schließen-Logik
+    const closeOverlay = () => {
       overlay.style.opacity = "0";
       setTimeout(() => overlay.remove(), 200);
     };
+
+    overlay.onclick = closeOverlay;
+    
+    // ESC-Taste zum Schließen
     const escHandler = ev => {
       if (ev.key === "Escape") {
-        overlay.style.opacity = "0";
-        setTimeout(() => overlay.remove(), 200);
+        closeOverlay();
         document.removeEventListener("keydown", escHandler);
       }
     };
