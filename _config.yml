@@ -1,5 +1,9 @@
-# Minimal config to allow forced rebuilds
-force_rebuild: 58
+title: Thai Nang Tani Politics Observatory
+markdown: kramdown
+theme: minima
+
+# Force rebuild
+force_rebuild: 59
 
 # Make sure Jekyll includes the images folder
 include:
