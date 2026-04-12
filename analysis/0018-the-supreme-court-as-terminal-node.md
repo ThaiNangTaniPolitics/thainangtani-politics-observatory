@@ -1,12 +1,6 @@
 ## 0018 – The Supreme Court as Terminal Node  
 ### *Individual Political Extinction through the Criminal Division for Persons Holding Political Positions*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Constitutional Assignment: Sections 195 and 235  
