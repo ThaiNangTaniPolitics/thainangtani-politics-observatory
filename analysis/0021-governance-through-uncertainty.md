@@ -1,7 +1,5 @@
 
----
----
-# **0021 – The Architecture of Anticipation: Governance Through Uncertainty**  
+## 0021 – The Architecture of Anticipation: Governance Through Uncertainty  
 ### *How constitutional ambiguity becomes a mode of political regulation (2021–2026)*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -12,7 +10,7 @@
 
 ---
 
-## **1. Introduction: The Rise of Anticipatory Governance**  
+## 1. Introduction: The Rise of Anticipatory Governance  
 Between 2021 and 2026, Thailand’s constitutional order developed a distinctive regulatory mode:  
 **governance through anticipation**.
 
@@ -34,10 +32,10 @@ This chapter analyses how uncertainty itself becomes a governing instrument.
 
 ---
 
-## **2. The Structural Sources of Uncertainty**  
+## 2. The Structural Sources of Uncertainty  
 Three constitutional elements generate the anticipatory environment:
 
-### **2.1 Open‑Ended Preventive Clauses**  
+### *2.1 Open‑Ended Preventive Clauses*  
 Provisions such as Section 49 prohibit actions that “undermine the democratic regime with the King as Head of State” without defining:
 
 - what constitutes “undermining”,  
@@ -46,7 +44,7 @@ Provisions such as Section 49 prohibit actions that “undermine the democratic 
 
 This creates **interpretive elasticity**.
 
-### **2.2 Non‑Material Ethical Standards**  
+### *2.2 Non‑Material Ethical Standards*  
 Ethics provisions (Sections 160, 219, 235) lack:
 
 - statutory definitions,  
@@ -55,7 +53,7 @@ Ethics provisions (Sections 160, 219, 235) lack:
 
 Ethics becomes a **floating category**, filled by judicial interpretation.
 
-### **2.3 Terminal Sanctions Without Criminal Procedure**  
+### *2.3 Terminal Sanctions Without Criminal Procedure*  
 Section 235 allows:
 
 - suspension,  
@@ -68,7 +66,7 @@ This creates **high‑impact consequences** triggered by **low‑certainty stand
 
 ---
 
-## **3. Anticipation as a Mode of Behavioural Regulation**  
+## 3. Anticipation as a Mode of Behavioural Regulation  
 In an environment where:
 
 - the rules are open‑ended,  
@@ -79,42 +77,42 @@ actors begin to regulate themselves **in anticipation** of potential interventio
 
 This produces a distinctive behavioural pattern:
 
-### **3.1 Pre‑emptive Self‑Limitation**  
+### *3.1 Pre‑emptive Self‑Limitation*  
 Political actors avoid actions that might be interpreted as:
 
 - controversial,  
 - constitutionally sensitive,  
 - or ethically ambiguous.
 
-### **3.2 Strategic Ambiguity**  
+### *3.2 Strategic Ambiguity*  
 Legislators and institutions adopt cautious language and narrow agendas to avoid interpretive exposure.
 
-### **3.3 Procedural Minimalism**  
+### *3.3 Procedural Minimalism*  
 Committees and caucuses reduce the scope of deliberation to minimise risk.
 
-### **3.4 Anticipatory Compliance**  
+### *3.4 Anticipatory Compliance*  
 Actors align behaviour not with written law, but with **expected interpretation**.
 
 ---
 
-## **4. Institutional Effects: A System Governed by Possibility, Not Certainty**  
+## 4. Institutional Effects: A System Governed by Possibility, Not Certainty  
 Anticipatory governance reshapes institutional behaviour in several ways:
 
-### **4.1 The Shift From Rules to Signals**  
+### 4.1 The Shift From Rules to Signals  
 Formal rules become less important than:
 
 - judicial signals,  
 - precedent patterns,  
 - and institutional tendencies.
 
-### **4.2 The Expansion of Interpretive Power**  
+### *4.2 The Expansion of Interpretive Power*  
 Institutions with interpretive authority gain influence because:
 
 - uncertainty increases reliance on interpretation,  
 - interpretation becomes the operative norm,  
 - actors adjust behaviour to anticipated rulings.
 
-### **4.3 The Internalisation of Oversight**  
+### *4.3 The Internalisation of Oversight*  
 Parliament, parties, and individual MPs begin to:
 
 - pre‑screen actions,  
@@ -125,17 +123,17 @@ Oversight becomes **internalised** rather than externally imposed.
 
 ---
 
-## **5. Systemic Consequences: A Predictable Pattern of Unpredictability**  
+## 5. Systemic Consequences: A Predictable Pattern of Unpredictability  
 The architecture of anticipation produces a paradox:
 
-### **5.1 Uncertainty at the Micro Level**  
+### *5.1 Uncertainty at the Micro Level*  
 Actors cannot predict:
 
 - which actions will trigger proceedings,  
 - how ethics will be interpreted,  
 - when preventive intervention will occur.
 
-### **5.2 Predictability at the Macro Level**  
+### *5.2 Predictability at the Macro Level*  
 Despite micro‑uncertainty, the **systemic pattern** is stable:
 
 - sensitive topics are avoided,  
@@ -147,26 +145,26 @@ The system becomes **predictably cautious**.
 
 ---
 
-## **6. The Logic of Anticipatory Governance**  
+## 6. The Logic of Anticipatory Governance  
 Anticipatory governance operates through four mechanisms:
 
-### **6.1 Ambiguity**  
+### *6.1 Ambiguity*  
 Open‑ended clauses create interpretive space.
 
-### **6.2 Discretion**  
+### *6.2 Discretion*  
 Institutions with interpretive authority fill that space.
 
-### **6.3 Severity**  
+### *6.3 Severity*  
 High‑impact sanctions amplify the effect of uncertainty.
 
-### **6.4 Internalisation**  
+### *6.4 Internalisation*  
 Actors adjust behaviour before intervention occurs.
 
 This produces a governance model in which **uncertainty is not a flaw but a functional tool**.
 
 ---
 
-## **7. Conclusion: The Constitutional Order as a System of Anticipation**  
+## 7. Conclusion: The Constitutional Order as a System of Anticipation  
 Between 2021 and 2026, Thailand’s constitutional environment evolved into a system where:
 
 - **uncertainty regulates behaviour**,  
