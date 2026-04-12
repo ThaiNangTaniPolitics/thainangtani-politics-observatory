@@ -157,6 +157,13 @@ The case illustrates how institutional arrangements can shape not only behavior,
   </a>
 </p>
 
+<p align="center">
+  <a href="../images/0043_2.jpg">
+    <img src="../images/0043_2.jpg" alt="0043_2" width="480">
+  </a>
+</p>
+
+
 <script>
 document.addEventListener("dblclick", e => {
   if(e.target.tagName === "IMG") {
