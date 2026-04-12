@@ -61,7 +61,7 @@ Financial pressure leads to **predictable editorial patterns**.
 ## 4. Editorial Patterns
 Across outlets, several recurring patterns appear:
 
-### a) Source Weighting  
+### *a) Source Weighting*
 Priority is given to:
 
 - official statements  
@@ -70,7 +70,7 @@ Priority is given to:
 
 Affected groups, independent experts, or dissenting perspectives receive less coverage.
 
-### b) Omission  
+### *b) Omission*
 Structural context is frequently omitted, including:
 
 - ownership influence  
@@ -80,7 +80,7 @@ Structural context is frequently omitted, including:
 
 Omission stabilizes the narrative.
 
-### c) Headline Softening  
+### *c) Headline Softening*
 Headlines often:
 
 - downplay conflict  
@@ -90,7 +90,7 @@ Headlines often:
 
 This reduces perceived volatility.
 
-### d) Chronological Compression  
+### *d) Chronological Compression*
 Complex sequences are presented as:
 
 - linear  
@@ -99,7 +99,7 @@ Complex sequences are presented as:
 
 This masks contradictions and internal disputes.
 
-### e) De‑emphasis  
+### *e) De‑emphasis*
 Elements that challenge the preferred narrative are:
 
 - minimized  
