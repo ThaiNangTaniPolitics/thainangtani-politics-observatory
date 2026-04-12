@@ -1,6 +1,4 @@
----
----
-# **0023 – System Map: The Constitutional Mechanics of Thailand (2021–2026)**  
+## 0023 – System Map: The Constitutional Mechanics of Thailand (2021–2026)  
 ### *A graphical overview of the institutional, discursive, and behavioural architecture*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -11,7 +9,7 @@
 
 ---
 
-## **1. Overview Diagram: The Full Mechanism (0012–0022)**  
+## 1. Overview Diagram: The Full Mechanism (0012–0022)  
 *(Text‑based graphic, Markdown‑safe, Jekyll‑safe, no images required)*
 
 ```
@@ -66,43 +64,43 @@
 
 ---
 
-## **2. Functional Layers**
+## 2. Functional Layers
 
-### **Layer 1 – Textual Foundations**  
+### *Layer 1 – Textual Foundations*  
 - Section 49  
 - Section 235  
 - Ethics provisions  
 
-### **Layer 2 – Interpretive Expansion**  
+### *Layer 2 – Interpretive Expansion*  
 - Preventive jurisprudence  
 - Capability logic  
 - Ethics as constitutional morality  
 
-### **Layer 3 – Institutional Execution**  
+### *Layer 3 – Institutional Execution*  
 - Constitutional Court  
 - Election Commission  
 - NACC  
 - Supreme Court  
 
-### **Layer 4 – Behavioural Adaptation**  
+### *Layer 4 – Behavioural Adaptation*  
 - Parliamentary self‑limitation  
 - Strategic abstention  
 - Agenda narrowing  
 
-### **Layer 5 – Discursive Environment**  
+### *Layer 5 – Discursive Environment*  
 - Filtering of structural analysis  
 - Visibility of affective speech  
 
-### **Layer 6 – Anticipatory Governance**  
+### *Layer 6 – Anticipatory Governance*  
 - Uncertainty as regulatory tool  
 - Internalisation of oversight  
 
-### **Layer 7 – Recursive Reinforcement**  
+### *Layer 7 – Recursive Reinforcement*  
 - Feedback loop of authority and anticipation  
 
 ---
 
-## **3. System Summary**  
+## *3. System Summary*  
 The constitutional mechanics of Thailand (2021–2026) form a **multi‑layered system** in which:
 
 - text enables interpretation,  
