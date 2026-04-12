@@ -1,5 +1,5 @@
-# 0011 – Bangkok Post: Comment Ecology
-### How selective moderation, structural omission, and disproportionate amplification shape public discourse
+## 0011 – Bangkok Post: Comment Ecology
+### *How selective moderation, structural omission, and disproportionate amplification shape public discourse*
 
 [Home](/thainangtani-politics-observatory/)  
 [Analysis](/thainangtani-politics-observatory/analysis/)  
@@ -9,24 +9,7 @@
 
 ---
 
-## How to read this post
-This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
-Each entry follows a consistent analytical structure:
-
-- **Event Overview** – What happened  
-- **Official Communication** – What the government said and how  
-- **Media Framing** – How outlets shaped the story  
-- **Narrative Shift** – How the storyline evolved  
-- **Editorial Mechanics** – Selection, omission, emphasis, ordering  
-- **Public Sentiment** – How audiences reacted  
-- **Interpretation** – What the narrative structure reveals  
-
-This is not political advocacy.  
-It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
-
----
-
-## **1. Event Overview**
+## 1. Event Overview
 For many years, the Bangkok Post’s *Postbag* section has displayed a striking pattern of selective moderation.  
 This pattern became particularly measurable in the dataset from September 2024 to March 2025.
 
@@ -43,7 +26,7 @@ This suggests a **continuity of moderation dynamics**, not isolated incidents.
 
 ---
 
-## **2. Data Overview (600 Comments, 50 Users)**
+## 2. Data Overview (600 Comments, 50 Users)
 A dataset collected from 1 September 2024 to 9 March 2025 shows:
 
 - **600 comments remained visible**  
@@ -53,7 +36,7 @@ A dataset collected from 1 September 2024 to 9 March 2025 shows:
 - these 5 consistently expressed **conservative or right‑leaning, often provocative views**  
 - they received **poor reader ratings**, yet their comments remained visible  
 
-### **Top 5 dominant voices (61.2% of all visible comments)**  
+### Top 5 dominant voices (61.2% of all visible comments)
 - lessimore — 150 comments (25.0%)  
 - keskeseksa — 114 comments (19.0%)  
 - Chris_Z — 36 comments (6.0%)  
@@ -64,9 +47,9 @@ These 600 comments represent only the **surviving remainder** of the original di
 
 ---
 
-## **3. Moderation Patterns**
+## 3. Moderation Patterns
 
-### **a) Analytical comments are removed**
+### a) Analytical comments are removed
 Comments that were:
 
 - nuanced  
@@ -76,7 +59,7 @@ Comments that were:
 
 were frequently deleted — often hours or days later.
 
-### **b) Emotional comments remain**
+### b) Emotional comments remain
 Comments that were:
 
 - aggressive  
@@ -87,7 +70,7 @@ Comments that were:
 
 were consistently left untouched.
 
-### **c) Delayed deletion**
+### *c) Delayed deletion*
 A new pattern emerged:
 
 - comments were removed **late at night**  
