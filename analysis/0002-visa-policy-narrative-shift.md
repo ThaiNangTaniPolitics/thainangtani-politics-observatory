@@ -1,4 +1,4 @@
-## **0002 - Visa Policy Narrative Shift in Thai Media**
+## 0002 - Visa Policy Narrative Shift in Thai Media
 ### How official communication, editorial framing, and public sentiment diverged
 
 [Home](/thainangtani-politics-observatory/)
@@ -6,26 +6,6 @@
 [Timeline](/thainangtani-politics-observatory/timeline/)
 [Methodology](/thainangtani-politics-observatory/methodology/)
 [Archive](/thainangtani-politics-observatory/archive/)
-
-
----
-
-### How to read this post
-This observatory documents how Thai media construct narratives, frame political events, and sequence information.  
-Each entry follows a consistent analytical structure:
-
-- **Event Overview** – What happened  
-- **Official Communication** – What the government said and how  
-- **Media Framing** – How outlets shaped the story  
-- **Narrative Shift** – How the storyline evolved  
-- **Editorial Mechanics** – Selection, omission, emphasis, ordering  
-- **Public Sentiment** – How audiences reacted  
-- **Interpretation** – What the narrative structure reveals  
-
-This is not political advocacy.  
-It is an analysis of **communication patterns**, **framing choices**, and **narrative mechanics** in Thai media.
-
----
 
 ## 1. Event Overview
 A sequence of visa‑related announcements triggered a rapid shift in how Thai media framed the topic.  
