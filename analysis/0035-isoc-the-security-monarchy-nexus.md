@@ -1,6 +1,5 @@
----
----
-# **0035 – The Security–Monarchy Nexus**  
+## 0035 – The Security–Monarchy Nexus
+### *How ISOC Protects and Reproduces Thailand## 0035 – The Security–Monarchy Nexus
 ### *How ISOC Protects and Reproduces Thailand’s Network Monarchy*
 
 [Home](/thainangtani-politics-observatory/)  
@@ -13,7 +12,7 @@ The relationship between Thailand’s security apparatus and the monarchy is str
 
 ---
 
-## **1. Ideological Alignment as Institutional Doctrine**
+## 1. Ideological Alignment as Institutional Doctrine
 
 ISOC’s internal doctrine frames the monarchy as:
 
@@ -29,11 +28,11 @@ This ideological alignment is embedded in:
 - loyalty rituals  
 - public messaging  
 
-The monarchy is not merely respected; it is positioned as the **core justification** for ISOC’s existence.
+The monarchy becomes the core justification for ISOC’s institutional role.
 
 ---
 
-## **2. Reproduction of Royalist Identity**
+## 2. Reproduction of Royalist Identity
 
 ISOC actively reproduces a royalist political identity through:
 
@@ -53,7 +52,7 @@ This ideological framework stabilizes the security–monarchy nexus across gener
 
 ---
 
-## **3. Operational Protection of the Network Monarchy**
+## 3. Operational Protection of the Network Monarchy
 
 ISOC provides operational support to the network monarchy through:
 
@@ -67,7 +66,7 @@ These functions ensure that challenges to the existing power structure are ident
 
 ---
 
-## **4. Information Operations (IO) as Defensive Infrastructure**
+## 4. Information Operations (IO) as Defensive Infrastructure
 
 ISOC’s IO units play a central role in:
 
@@ -81,7 +80,7 @@ This narrative management protects the symbolic authority of the monarchy and re
 
 ---
 
-## **5. Administrative Intermediation Through Local Elites**
+## 5. Administrative Intermediation Through Local Elites
 
 ISOC leverages local elites who are:
 
@@ -101,7 +100,7 @@ This creates a distributed network of loyalty enforcement.
 
 ---
 
-## **6. Legal and Institutional Shielding**
+## 6. Legal and Institutional Shielding
 
 The Internal Security Act (ISA 2008) provides ISOC with:
 
@@ -114,7 +113,7 @@ These legal protections indirectly shield the monarchy by ensuring that the secu
 
 ---
 
-## **7. The Nexus as Structural Feature of Dual Governance**
+## 7. The Nexus as Structural Feature of Dual Governance
 
 The security–monarchy nexus functions as:
 
@@ -125,6 +124,8 @@ The security–monarchy nexus functions as:
 
 This nexus ensures that the Back‑End remains intact regardless of electoral outcomes or civilian policy agendas.
 
+---
+
 <p align="center">
   <a href="../images/0035.jpg">
     <img src="../images/0035.jpg" alt="0035" width="480">
@@ -133,13 +134,15 @@ This nexus ensures that the Back‑End remains intact regardless of electoral ou
 
 <script>
 document.addEventListener("dblclick", e => {
-  if(e.target.tagName === "IMG") {
+  if (e.target.tagName === "IMG") {
     const img = e.target.cloneNode();
     Object.assign(img.style, {maxWidth:"100vw", maxHeight:"100vh"});
     const o = Object.assign(document.createElement("div"), {
       style:"position:fixed;inset:0;background:#000c;display:flex;align-items:center;justify-content:center;cursor:zoom-out;z-index:9999"
     });
-    o.appendChild(img); o.onclick=()=>o.remove(); document.body.appendChild(o);
+    o.appendChild(img);
+    o.onclick = () => o.remove();
+    document.body.appendChild(o);
   }
 });
 </script>
