@@ -21,7 +21,7 @@ title: Image Gallery
 <div class="gallery">
 {% for image in site.static_files %}
   {% if image.path contains 'images/' %}
-    <img src="{{ image.path }}" alt="">
+    <img src="{{ site.baseurl }}{{ image.path }}" alt="">
   {% endif %}
 {% endfor %}
 </div>
