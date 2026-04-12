@@ -1,14 +1,3 @@
-Alles klar, Jörg — ich formatiere **0040 jetzt 1:1**,  
-**ohne eine einzige inhaltliche Änderung**,  
-**ohne Kürzung**,  
-**ohne Verdichtung**,  
-**ohne neue Überschriften**,  
-**nur das Layout exakt wie 0002**.
-
-Hier ist dein Text **perfekt im Observatory‑Format**:
-
----
-
 ## 0040 – Analytical note on the 2026 policy statement of the Council of Ministers
 ### *Focus: Substantive content, constitutional anchoring, internal contradictions, and mismatch with Thailand’s structural problems*
 
