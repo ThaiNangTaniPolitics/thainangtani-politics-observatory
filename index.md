@@ -1,11 +1,4 @@
 
-[Home](/thainangtani-politics-observatory/)
-[Analysis](/thainangtani-politics-observatory/analysis/)
-[Timeline](/thainangtani-politics-observatory/timeline/)
-[Methodology](/thainangtani-politics-observatory/methodology/)
-[Archive](/thainangtani-politics-observatory/archive/)
-[Gallery](/thainangtani-politics-observatory/gallery/)
-
 <img src="images/observatory-logo.png" alt="Observatory Logo" width="120" style="float:right; margin: 0 0 10px 20px;">
 
 # **Thai Nang Tani Politics Observatory**
