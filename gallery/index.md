@@ -13,28 +13,52 @@ title: Image Gallery
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
   gap: 20px;
 }
+.gallery .img-container {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border-radius: 6px;
+  background: #eee;
+}
 .gallery img {
   width: 100%;
-  border-radius: 6px;
+  height: 100%;
+  object-fit: cover;
   cursor: zoom-in;
-  display: block; /* Verhindert Lücken im Grid */
+  transition: transform 0.3s ease;
+}
+.gallery img:hover {
+  transform: scale(1.05);
 }
 </style>
 
 <div class="gallery">
-{% for file in site.static_files %}
-  {% if file.path contains 'images/' and file.extname == '.webp' %}
-    {% comment %} 
-      Wir extrahieren den Basispfad ohne Endung, 
-      um WebP und PNG flexibel zu verknüpfen.
-    {% endcomment %}
-    {% assign base_path = file.path | remove: file.extname %}
-    
-    <picture>
-      <source srcset="{{ site.baseurl }}{{ base_path }}.webp" type="image/webp">
-      <source srcset="{{ site.baseurl }}{{ base_path }}.png" type="image/png">
-      <img src="{{ site.baseurl }}{{ base_path }}.png" alt="Observatory Record">
-    </picture>
+{% assign all_files = site.static_files | where_exp: "item", "item.path contains 'images/'" %}
+{% for file in all_files %}
+  {% assign ext = file.extname | downcase %}
+  
+  {% comment %} 
+    Wir filtern Dubletten: 
+    Wenn wir ein PNG/JPG finden, prüfen wir, ob ein WebP mit gleichem Namen existiert.
+    Wenn ja, überspringen wir dieses File, da das WebP separat geladen wird.
+  {% endcomment %}
+  
+  {% assign skip = false %}
+  {% if ext == '.png' or ext == '.jpg' or ext == '.jpeg' %}
+    {% assign base = file.path | remove: file.extname %}
+    {% for check in all_files %}
+      {% if check.path == "{{ base }}.webp" %}
+        {% assign skip = true %}
+      {% endif %}
+    {% endfor %}
   {% endif %}
+
+  {% unless skip %}
+    {% if ext == '.webp' or ext == '.png' or ext == '.jpg' or ext == '.jpeg' %}
+      <div class="img-container">
+        <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ file.basename }}">
+      </div>
+    {% endif %}
+  {% endunless %}
 {% endfor %}
 </div>
