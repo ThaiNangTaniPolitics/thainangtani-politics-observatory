@@ -1,12 +1,6 @@
 ## 0041 – Section 112 in the Consolidation Phase (2024–2026)
 ### *Judicial expansion, institutional entrenchment, and the transformation of constitutional meaning*
 
-[Home](/thainangtani-politics-observatory/)  
-[Analysis](/thainangtani-politics-observatory/analysis/)  
-[Timeline](/thainangtani-politics-observatory/timeline/)  
-[Methodology](/thainangtani-politics-observatory/methodology/)  
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## INTRODUCTION
