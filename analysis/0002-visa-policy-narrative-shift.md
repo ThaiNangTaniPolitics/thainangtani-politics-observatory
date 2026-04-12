@@ -1,12 +1,6 @@
 ## 0002 - Visa Policy Narrative Shift in Thai Media
 ### *How official communication, editorial framing, and public sentiment diverged*
 
-[Home](/thainangtani-politics-observatory/)
-[Analysis](/thainangtani-politics-observatory/analysis/)
-[Timeline](/thainangtani-politics-observatory/timeline/)
-[Methodology](/thainangtani-politics-observatory/methodology/)
-[Archive](/thainangtani-politics-observatory/archive/)
-
 ---
 
 ## 1. Event Overview
